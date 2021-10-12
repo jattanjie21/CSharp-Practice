@@ -21,11 +21,7 @@ namespace Solutions.Task_Solutions
             check.Add(c);
             check.Add(d);
 
-            //foreach (var ch in check)
-            //{
-
-            //}
-            int reverse = check.Reverse;
+            check.Reverse();
         }
     }
 }

@@ -5,12 +5,15 @@ namespace Solution
 {
     class Program
     {
-        TaskOne taskOne = new TaskOne();
+        TaskOne one = new TaskOne();
 
         static void Main(string[] args)
         {
             //Console.WriteLine("Hello World!");
-            Console.WriteLine(taskOne.SumDigits(2,0,1,1));
+            //Console.WriteLine(taskOne.SumDigits(2,0,1,1));
+            
+            
+
         }
     }
 }
