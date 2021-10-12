@@ -7,5 +7,9 @@ namespace Solutions.Task_Solutions
 {
     public class TaskOne
     {
+        public int SumDigits(int a,int b,int c,int d)
+        {
+            return a + b + c + d;
+        }
     }
 }
