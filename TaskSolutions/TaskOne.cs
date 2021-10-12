@@ -18,6 +18,11 @@ namespace TaskSolutions
             check.Add(d);
 
             check.Reverse();
+
+            foreach (var ch in check)
+            {
+                System.Console.WriteLine(ch);
+            }
         }
     }
 }
