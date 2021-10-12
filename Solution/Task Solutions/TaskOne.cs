@@ -11,5 +11,10 @@ namespace Solutions.Task_Solutions
         {
             return a + b + c + d;
         }
+
+        public void ReverseOrder()
+        {
+            //var[] int = new in
+        }
     }
 }
