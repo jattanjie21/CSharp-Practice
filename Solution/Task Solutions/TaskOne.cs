@@ -12,9 +12,20 @@ namespace Solutions.Task_Solutions
             return a + b + c + d;
         }
 
-        public void ReverseOrder()
+        public void ReverseOrder(int a, int b, int c, int d)
         {
-            //var[] int = new in
+            List<int> check = new List<int>();
+
+            check.Add(a);
+            check.Add(b);
+            check.Add(c);
+            check.Add(d);
+
+            //foreach (var ch in check)
+            //{
+
+            //}
+            int reverse = check.Reverse;
         }
     }
 }
