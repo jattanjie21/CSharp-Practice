@@ -1,5 +1,0 @@
-C:\Users\USER\Documents\ENV\CSharp-Practice\Solution\obj\Debug\net5.0\Solution.csproj.AssemblyReference.cache
-C:\Users\USER\Documents\ENV\CSharp-Practice\Solution\obj\Debug\net5.0\Solution.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\USER\Documents\ENV\CSharp-Practice\Solution\obj\Debug\net5.0\Solution.AssemblyInfoInputs.cache
-C:\Users\USER\Documents\ENV\CSharp-Practice\Solution\obj\Debug\net5.0\Solution.AssemblyInfo.cs
-C:\Users\USER\Documents\ENV\CSharp-Practice\Solution\obj\Debug\net5.0\Solution.csproj.CoreCompileInputs.cache
