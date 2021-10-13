@@ -15,6 +15,15 @@ namespace ConsoleTesting
             foreach (var c in taskOne.ReverseDigits())
             {
                 Console.Write(c);
+                Console.WriteLine();
+            }
+
+            Console.WriteLine("-----------------");
+
+            foreach (var c in taskOne.SwitchLastDigitToFirst())
+            {
+                Console.Write(c);
+                Console.WriteLine();
             }
 
             Console.WriteLine("-----------------");
