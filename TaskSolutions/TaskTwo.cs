@@ -28,6 +28,18 @@ namespace TaskSolutions
             {
                 Console.WriteLine((rand.Next(min, max)) * 10);
             }
+            else if ((rand.Next(min, max)) >= 4 && (rand.Next(min, max)) <= 6)
+            {
+                Console.WriteLine((rand.Next(min, max)) * 100);
+            }
+            else if ((rand.Next(min, max)) >= 7 && (rand.Next(min, max)) <= 9)
+            {
+                Console.WriteLine((rand.Next(min, max)) * 1000);
+            }
+            else if ((rand.Next(min, max)) <= 0 && (rand.Next(min, max)) > 9)
+            {
+                Console.WriteLine("Error message");
+            }
         }
     }
 }
