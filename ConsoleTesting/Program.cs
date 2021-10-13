@@ -38,9 +38,12 @@ namespace ConsoleTesting
             //Console.WriteLine("-----------------");
 
             //TASKTWO
-            TaskTwo taskTwo = new TaskTwo();
+            TaskTwo taskTwo = new TaskTwo(1,9);
 
-            Console.WriteLine(taskTwo.RangeCalculator(0, 9));
+            taskTwo.MultiplyByTen();
+            //Console.WriteLine(taskTwo.RangeCalculator(0, 9));
+
+
             
         }
     }
