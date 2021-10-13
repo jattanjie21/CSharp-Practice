@@ -1,4 +1,5 @@
 ﻿using System;
+using TaskSolutions;
 
 namespace ConsoleTesting
 {
@@ -6,7 +7,9 @@ namespace ConsoleTesting
     {
         static void Main(string[] args)
         {
-            
+            TaskOne taskOne = new TaskOne(2,0,1,1);
+
+            Console.WriteLine(taskOne.SumDigits());
         }
     }
 }

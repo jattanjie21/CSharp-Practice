@@ -13,9 +13,18 @@ namespace TaskSolutions
         public int c { get; set; }
         public int d { get; set; }
 
+        public TaskOne(int a,int b,int c,int d)
+        {
+            this.a = a;
+            this.b = b;
+            this.c = c;
+            this.d = d;
+        }
         public int SumDigits()
         {
             return a + b + c + d;
         }
+
+
     }
 }
