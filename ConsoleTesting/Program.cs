@@ -12,7 +12,7 @@ namespace ConsoleTesting
 
             //Console.WriteLine(taskOne.SumDigits());
             //Console.WriteLine("-----------------");
-            
+
             //foreach (var c in taskOne.ReverseDigits())
             //{
             //    Console.Write(c);
@@ -38,7 +38,10 @@ namespace ConsoleTesting
             //Console.WriteLine("-----------------");
 
             //TASKTWO
+            TaskTwo taskTwo = new TaskTwo();
 
+            Console.WriteLine(taskTwo.RangeCalculator(0, 9));
+            
         }
     }
 }

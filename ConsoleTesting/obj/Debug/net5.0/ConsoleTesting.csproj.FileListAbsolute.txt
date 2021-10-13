@@ -16,4 +16,3 @@ C:\Users\USER\Documents\ENV\CSharp-Practice\ConsoleTesting\obj\Debug\net5.0\Cons
 C:\Users\USER\Documents\ENV\CSharp-Practice\ConsoleTesting\obj\Debug\net5.0\ref\ConsoleTesting.dll
 C:\Users\USER\Documents\ENV\CSharp-Practice\ConsoleTesting\obj\Debug\net5.0\ConsoleTesting.pdb
 C:\Users\USER\Documents\ENV\CSharp-Practice\ConsoleTesting\obj\Debug\net5.0\ConsoleTesting.genruntimeconfig.cache
-C:\Users\USER\Documents\ENV\CSharp-Practice\ConsoleTesting\obj\Debug\net5.0\ConsoleTesting.csproj.CopyComplete
