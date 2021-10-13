@@ -13,7 +13,7 @@ namespace TaskSolutions
         public int c { get; set; }
         public int d { get; set; }
 
-        public int SumDigits(int a, int b, int c, int d)
+        public int SumDigits()
         {
             return a + b + c + d;
         }
