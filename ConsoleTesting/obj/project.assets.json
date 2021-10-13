@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "TaskSolutions/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/TaskSolutions.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TaskSolutions.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "TaskSolutions/1.0.0": {
+      "type": "project",
+      "path": "../TaskSolutions/TaskSolutions.csproj",
+      "msbuildProject": "../TaskSolutions/TaskSolutions.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "TaskSolutions >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\USER\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\USER\\Documents\\ENV\\CSharp-Practice\\TaskSolutions\\TaskSolutions.csproj": {
+              "projectPath": "C:\\Users\\USER\\Documents\\ENV\\CSharp-Practice\\TaskSolutions\\TaskSolutions.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
