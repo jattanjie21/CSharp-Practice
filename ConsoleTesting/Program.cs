@@ -27,6 +27,14 @@ namespace ConsoleTesting
             }
 
             Console.WriteLine("-----------------");
+
+            foreach (var c in taskOne.SwitchThirdDigitToSecond())
+            {
+                Console.Write(c);
+                Console.WriteLine();
+            }
+
+            Console.WriteLine("-----------------");
         }
     }
 }

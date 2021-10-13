@@ -57,5 +57,23 @@ namespace TaskSolutions
 
             return switchedDigits;
         }
+        public List<string> SwitchThirdDigitToSecond()
+        {
+            List<int> collection = new List<int>();
+
+            collection.Add(a);
+            collection.Add(b);
+            collection.Add(c);
+            collection.Add(d);
+
+            string last = collection[3].ToString();
+            string first = collection[0].ToString();
+            string third = collection[2].ToString();
+            string second = collection[1].ToString();
+
+            List<string> switchedDigits = new List<string> { last, first, third, second };
+
+            return switchedDigits;
+        }
     }
 }
