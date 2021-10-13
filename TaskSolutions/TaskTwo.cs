@@ -15,10 +15,6 @@ namespace TaskSolutions
             this.min = min;
             this.max = max;
         }
-        //public int RangeCalculator(int min, int max)
-        //{
-            
-        //}
 
         public void MultiplyByTen()
         {
