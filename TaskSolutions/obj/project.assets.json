@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\USER\\.nuget\\packages\\": {}
+    "C:\\Users\\somadina computers\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\Documents\\ENV\\CSharp-Practice\\TaskSolutions\\TaskSolutions.csproj",
+      "projectUniqueName": "C:\\Users\\somadina computers\\Documents\\CODELESS\\CSharp-Practice\\TaskSolutions\\TaskSolutions.csproj",
       "projectName": "TaskSolutions",
-      "projectPath": "C:\\Users\\USER\\Documents\\ENV\\CSharp-Practice\\TaskSolutions\\TaskSolutions.csproj",
-      "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\Documents\\ENV\\CSharp-Practice\\TaskSolutions\\obj\\",
+      "projectPath": "C:\\Users\\somadina computers\\Documents\\CODELESS\\CSharp-Practice\\TaskSolutions\\TaskSolutions.csproj",
+      "packagesPath": "C:\\Users\\somadina computers\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\somadina computers\\Documents\\CODELESS\\CSharp-Practice\\TaskSolutions\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\somadina computers\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,7 +28,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://packagesource": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {

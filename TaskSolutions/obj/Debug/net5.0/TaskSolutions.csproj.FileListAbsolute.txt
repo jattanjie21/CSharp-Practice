@@ -1,0 +1,12 @@
+C:\Users\somadina computers\Documents\CODELESS\CSharp-Practice\TaskSolutions\bin\Debug\net5.0\TaskSolutions.deps.json
+C:\Users\somadina computers\Documents\CODELESS\CSharp-Practice\TaskSolutions\bin\Debug\net5.0\TaskSolutions.dll
+C:\Users\somadina computers\Documents\CODELESS\CSharp-Practice\TaskSolutions\bin\Debug\net5.0\ref\TaskSolutions.dll
+C:\Users\somadina computers\Documents\CODELESS\CSharp-Practice\TaskSolutions\bin\Debug\net5.0\TaskSolutions.pdb
+C:\Users\somadina computers\Documents\CODELESS\CSharp-Practice\TaskSolutions\obj\Debug\net5.0\TaskSolutions.csproj.AssemblyReference.cache
+C:\Users\somadina computers\Documents\CODELESS\CSharp-Practice\TaskSolutions\obj\Debug\net5.0\TaskSolutions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\somadina computers\Documents\CODELESS\CSharp-Practice\TaskSolutions\obj\Debug\net5.0\TaskSolutions.AssemblyInfoInputs.cache
+C:\Users\somadina computers\Documents\CODELESS\CSharp-Practice\TaskSolutions\obj\Debug\net5.0\TaskSolutions.AssemblyInfo.cs
+C:\Users\somadina computers\Documents\CODELESS\CSharp-Practice\TaskSolutions\obj\Debug\net5.0\TaskSolutions.csproj.CoreCompileInputs.cache
+C:\Users\somadina computers\Documents\CODELESS\CSharp-Practice\TaskSolutions\obj\Debug\net5.0\TaskSolutions.dll
+C:\Users\somadina computers\Documents\CODELESS\CSharp-Practice\TaskSolutions\obj\Debug\net5.0\ref\TaskSolutions.dll
+C:\Users\somadina computers\Documents\CODELESS\CSharp-Practice\TaskSolutions\obj\Debug\net5.0\TaskSolutions.pdb
