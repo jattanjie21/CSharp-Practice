@@ -9,7 +9,6 @@ namespace TestTaskSolutions
         public void TestingSumDigits()
         {
             //Arrange
-
             TaskOne taskOne = new TaskOne(2,0,1,1);
 
             //Act
@@ -18,7 +17,15 @@ namespace TestTaskSolutions
 
             //Assert
             Assert.Equal(expected, actual);
+        }
+        [Fact]
+        public void TestingReverseDigits()
+        {
+            //Arrange
 
+            //Act
+
+            //Assert
         }
     }
 }
