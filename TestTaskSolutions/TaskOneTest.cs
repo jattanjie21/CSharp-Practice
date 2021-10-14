@@ -12,11 +12,12 @@ namespace TestTaskSolutions
 
             TaskOne taskOne = new TaskOne(2,0,1,1);
 
+            //Act
+            int expected = 4;
+            int actual = taskOne.SumDigits();
+
             //Assert
-            
-
-            //Append
-
+            Assert.Equal(expected, actual);
 
         }
     }
