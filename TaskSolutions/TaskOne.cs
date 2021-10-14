@@ -49,12 +49,12 @@ namespace TaskSolutions
 
         public List<string> SwitchThirdDigitToSecond()
         {
-            string last = collection[3].ToString();
             string first = collection[0].ToString();
             string third = collection[2].ToString();
             string second = collection[1].ToString();
+            string last = collection[3].ToString();
 
-            List<string> switchedDigits = new List<string> { last, first, third, second };
+            List<string> switchedDigits = new List<string> { first, third, second, last };
 
             return switchedDigits;
         }

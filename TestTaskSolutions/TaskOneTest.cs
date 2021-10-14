@@ -52,20 +52,20 @@ namespace TestTaskSolutions
 
         }
 
-        //[Fact]
-        //public void TestingReverseDigits()
-        //{
-        //    //Arrange
-        //    TaskOne taskOne = new TaskOne(2, 0, 1, 1);
+        [Fact]
+        public void TestingSwitchThirdDigitToSecond()
+        {
+            //Arrange
+            TaskOne taskOne = new TaskOne(2, 0, 1, 1);
 
-        //    //Act
-        //    List<int> expected = new List<int> { 1, 1, 0, 2 };
+            //Act
+            List<string> expected = new List<string> { "2", "1", "0", "1" };
 
-        //    List<int> actual = taskOne.ReverseDigits();
+            List<string> actual = taskOne.SwitchThirdDigitToSecond();
 
-        //    //Assert
-        //    Assert.Equal(expected, actual);
+            //Assert
+            Assert.Equal(expected, actual);
 
-        //}
+        }
     }
 }
