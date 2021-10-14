@@ -43,9 +43,9 @@ namespace TestTaskSolutions
             TaskOne taskOne = new TaskOne(2, 0, 1, 1);
 
             //Act
-            List<string> expected = new List<string> { "1", "0", "1", "2" };
+            List<int> expected = new List<int> { 1, 0, 1, 2 };
 
-            List<string> actual = taskOne.SwitchLastDigitToFirst();
+            List<int> actual = taskOne.SwitchLastDigitToFirst();
 
             //Assert
             Assert.Equal(expected, actual);
@@ -59,9 +59,9 @@ namespace TestTaskSolutions
             TaskOne taskOne = new TaskOne(2, 0, 1, 1);
 
             //Act
-            List<string> expected = new List<string> { "2", "1", "0", "1" };
+            List<int> expected = new List<int> { 2, 1, 0, 1 };
 
-            List<string> actual = taskOne.SwitchThirdDigitToSecond();
+            List<int> actual = taskOne.SwitchThirdDigitToSecond();
 
             //Assert
             Assert.Equal(expected, actual);
