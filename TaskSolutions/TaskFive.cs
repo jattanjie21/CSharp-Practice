@@ -8,6 +8,17 @@ namespace TaskSolutions
 {
     public class TaskFive
     {
+        public string A { get; set; }
+        public string B { get; set; }
+
+        public TaskFive()
+        {
+            this.B = "if";
+        }
+        //public string PrintSomeText(string text)
+        //{
+        //    string beginning = text.Substring()
+        //}
 
     }
 }
