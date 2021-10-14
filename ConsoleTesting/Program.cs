@@ -7,7 +7,7 @@ namespace ConsoleTesting
     {
         static void Main(string[] args)
         {
-            //TASKONE!
+            //TASK ONE
 
             TaskOne taskOne = new TaskOne(2, 0, 1, 1);
 
@@ -38,14 +38,17 @@ namespace ConsoleTesting
 
             Console.WriteLine("-----------------");
 
-            //TASKTWO
+            //TASK TWO
             TaskTwo taskTwo = new TaskTwo(1,9);
 
             taskTwo.MultiplyRandomNumber();
-            //Console.WriteLine(taskTwo.RangeCalculator(0, 9));
 
+            Console.WriteLine("-----------------");
 
-            
+            //TASK THREE
+            TaskThree taskThree = new();
+
+            Console.WriteLine(taskThree.ComputeSum(2, 2));
         }
     }
 }
