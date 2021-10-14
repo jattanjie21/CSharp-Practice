@@ -10,7 +10,7 @@ namespace TaskSolutions
         public int d { get; set; }
         public List<int> collection { get; set; }
 
-        public TaskOne(int a,int b,int c,int d)
+        public TaskOne(int a, int b, int c, int d)
         {
             this.a = a;
             this.b = b;
@@ -34,41 +34,42 @@ namespace TaskSolutions
             return collection;
         }
 
-        //public List<string> SwitchLastDigitToFirst()
-        ////{
-        ////    List<int> collection = new List<int>();
+        public List<string> SwitchLastDigitToFirst()
+        {
+            //    List<int> collection = new List<int>();
 
-        ////    collection.Add(a);
-        ////    collection.Add(b);
-        ////    collection.Add(c);
-        ////    collection.Add(d);
+            //    collection.Add(a);
+            //    collection.Add(b);
+            //    collection.Add(c);
+            //    collection.Add(d);
 
-        //    string last = collection[3].ToString();
-        //    string first = collection[0].ToString();
-        //    string second = collection[1].ToString();
-        //    string third = collection[2].ToString();
+            string last = collection[3].ToString();
+            string first = collection[0].ToString();
+            string second = collection[1].ToString();
+            string third = collection[2].ToString();
 
-        //    List<string> switchedDigits = new List<string> { last, first, second, third };
+            List<string> switchedDigits = new List<string> { last, first, second, third };
 
-        //    return switchedDigits;
-        //}
-        //public List<string> SwitchThirdDigitToSecond()
-        //{
-        //    List<int> collection = new List<int>();
+            return switchedDigits;
+        }
 
-        //    collection.Add(a);
-        //    collection.Add(b);
-        //    collection.Add(c);
-        //    collection.Add(d);
+        public List<string> SwitchThirdDigitToSecond()
+        {
+            //List<int> collection = new List<int>();
 
-        //    string last = collection[3].ToString();
-        //    string first = collection[0].ToString();
-        //    string third = collection[2].ToString();
-        //    string second = collection[1].ToString();
+            //collection.Add(a);
+            //collection.Add(b);
+            //collection.Add(c);
+            //collection.Add(d);
 
-        //    List<string> switchedDigits = new List<string> { last, first, third, second };
+            string last = collection[3].ToString();
+            string first = collection[0].ToString();
+            string third = collection[2].ToString();
+            string second = collection[1].ToString();
 
-        //    return switchedDigits;
-        //}
+            List<string> switchedDigits = new List<string> { last, first, third, second };
+
+            return switchedDigits;
+        }
     }
 }

@@ -9,34 +9,34 @@ namespace ConsoleTesting
         {
             //TASKONE!
 
-            //TaskOne taskOne = new TaskOne(2, 0, 1, 1);
+            TaskOne taskOne = new TaskOne(2, 0, 1, 1);
 
-            //Console.WriteLine(taskOne.SumDigits());
-            //Console.WriteLine("-----------------");
+            Console.WriteLine(taskOne.SumDigits());
+            Console.WriteLine("-----------------");
 
-            //foreach (var c in taskOne.ReverseDigits())
-            //{
-            //    Console.Write(c);
-            //    Console.WriteLine();
-            //}
+            foreach (var c in taskOne.ReverseDigits())
+            {
+                Console.Write(c);
+                Console.WriteLine();
+            }
 
-            //Console.WriteLine("-----------------");
+            Console.WriteLine("-----------------");
 
-            //foreach (var c in taskOne.SwitchLastDigitToFirst())
-            //{
-            //    Console.Write(c);
-            //    Console.WriteLine();
-            //}
+            foreach (var c in taskOne.SwitchLastDigitToFirst())
+            {
+                Console.Write(c);
+                Console.WriteLine();
+            }
+            
+            Console.WriteLine("-----------------");
 
-            //Console.WriteLine("-----------------");
+            foreach (var c in taskOne.SwitchLastDigitToFirst())
+            {
+                Console.Write(c);
+                Console.WriteLine();
+            }
 
-            //foreach (var c in taskOne.SwitchThirdDigitToSecond())
-            //{
-            //    Console.Write(c);
-            //    Console.WriteLine();
-            //}
-
-            //Console.WriteLine("-----------------");
+            Console.WriteLine("-----------------");
 
             //TASKTWO
             TaskTwo taskTwo = new TaskTwo(1,9);
