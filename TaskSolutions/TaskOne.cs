@@ -31,22 +31,16 @@ namespace TaskSolutions
         public List<int> ReverseDigits()
         {
             collection.Reverse();
+
             return collection;
         }
 
         public List<string> SwitchLastDigitToFirst()
-        {
-            //    List<int> collection = new List<int>();
-
-            //    collection.Add(a);
-            //    collection.Add(b);
-            //    collection.Add(c);
-            //    collection.Add(d);
-
+        {       
             string last = collection[3].ToString();
-            string first = collection[0].ToString();
-            string second = collection[1].ToString();
-            string third = collection[2].ToString();
+            string first = collection[1].ToString();
+            string second = collection[2].ToString();
+            string third = collection[0].ToString();
 
             List<string> switchedDigits = new List<string> { last, first, second, third };
 
@@ -55,13 +49,6 @@ namespace TaskSolutions
 
         public List<string> SwitchThirdDigitToSecond()
         {
-            //List<int> collection = new List<int>();
-
-            //collection.Add(a);
-            //collection.Add(b);
-            //collection.Add(c);
-            //collection.Add(d);
-
             string last = collection[3].ToString();
             string first = collection[0].ToString();
             string third = collection[2].ToString();

@@ -10,7 +10,7 @@ namespace TestTaskSolutions
         public void TestingSumDigits()
         {
             //Arrange
-            TaskOne taskOne = new TaskOne(2,0,1,1);
+            TaskOne taskOne = new TaskOne(2, 0, 1, 1);
 
             //Act
             int expected = 4;
@@ -19,11 +19,12 @@ namespace TestTaskSolutions
             //Assert
             Assert.Equal(expected, actual);
         }
+
         [Fact]
         public void TestingReverseDigits()
         {
             //Arrange
-            TaskOne taskOne = new TaskOne(2,0,1,1);
+            TaskOne taskOne = new TaskOne(2, 0, 1, 1);
 
             //Act
             List<int> expected = new List<int> { 1, 1, 0, 2 };
@@ -33,11 +34,38 @@ namespace TestTaskSolutions
             //Assert
             Assert.Equal(expected, actual);
 
-            //foreach (var c in taskOne.ReverseDigits())
-            //{
-            //    Console.Write(c);
-            //    Console.WriteLine();
-            //}
         }
+
+        [Fact]
+        public void TestingSwitchLastDigitToFirst()
+        {
+            //Arrange
+            TaskOne taskOne = new TaskOne(2, 0, 1, 1);
+
+            //Act
+            List<string> expected = new List<string> { "1", "0", "1", "2" };
+
+            List<string> actual = taskOne.SwitchLastDigitToFirst();
+
+            //Assert
+            Assert.Equal(expected, actual);
+
+        }
+
+        //[Fact]
+        //public void TestingReverseDigits()
+        //{
+        //    //Arrange
+        //    TaskOne taskOne = new TaskOne(2, 0, 1, 1);
+
+        //    //Act
+        //    List<int> expected = new List<int> { 1, 1, 0, 2 };
+
+        //    List<int> actual = taskOne.ReverseDigits();
+
+        //    //Assert
+        //    Assert.Equal(expected, actual);
+
+        //}
     }
 }
