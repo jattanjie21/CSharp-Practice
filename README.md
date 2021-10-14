@@ -27,3 +27,6 @@ All accepted contributions from authors will get their github links highligted h
 
 # Links
 https://docs.microsoft.com/en-us/dotnet/core/install/windows?tabs=net50
+https://docs.microsoft.com/en-us/dotnet/core/install/linux-ubuntu
+https://code.visualstudio.com/download
+https://code.visualstudio.com/docs/languages/csharp#:~:text=Installing%20C%23%20support%23&text=You%20can%20install%20it%20from,you%20open%20a%20C%23%20file.
