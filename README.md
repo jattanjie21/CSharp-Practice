@@ -18,12 +18,12 @@ A Simple .Net core project with c#. Weekly collecting basic questions online and
 - Fork and Clone project repo.
 - Happy coding.
 
-Usage: 
-Project is designed to target both beginners and intermediate .net developers with the aim of adding tasks and solutions to the project. It has a unit test solution but nevermind if you are new to the concept just focus on the task solution project.
+# How To Contribute
+Project is designed to target both beginners and intermediate .net developers with the aim of adding tasks and solutions to the project. It has a unit test solution but nevermind if you are new to the concept just focus on the task solution project. After going through the installation section some of the links recommended all have a set of questions or task to solve choose from any or if you feel like adding a new link you can also do that.
 
-Contributing: Larger projects often have sections on contributing to their project, in which contribution instructions are outlined. Sometimes, this is a separate file. If you have specific contribution preferences, explain them so that other developers know how to best contribute to your work. To learn more about how to help others contribute, check out the guide for setting guidelines for repository contributors.
 
-Credits: Include a section for credits in order to highlight and link to the authors of your project.
+# Credits
+All accepted contributions from authors will get their github links highligted here. 
 
 # Links
 https://docs.microsoft.com/en-us/dotnet/core/install/windows?tabs=net50
