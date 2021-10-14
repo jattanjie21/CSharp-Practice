@@ -1,38 +1,8 @@
 # Weekly C# Practice Questions
 
-#Links
-http://www.pakproject.com/c-sharp/c-practice-problems/
+Project name: C# Practice
 
-
-
-TASKS
-
-(1) Write a program that takes as input a four-digit number in format abcd (e.g. 2011) and performs the following actions:
-
-– Calculates the sum of the digits (in our example 2+0+1+1 = 4).
-
-– Prints on the console the number in reversed order: dcba (in our example 1102).
-
-– Puts the last digit in the first position: dabc (in our example 1201).
-
-– Exchanges the second and the third digits: acbd (in our example 2101).
-
-
-(2) Write a program that applies bonus points to given scores in the range [1…9] by the following rules:
-– If the score is between 1 and 3, the program multiplies it by 10.
-
-– If the score is between 4 and 6, the program multiplies it by 100.
-
-– If the score is between 7 and 9, the program multiplies it by 1000.
-
-– If the score is 0 or more than 9, the program prints an error message.
-
-
-Project name: Your project’s name is the first thing people will see upon scrolling down to your README, and is included upon creation of your README file.
-
-Description: A description of your project follows. A good description is clear, short, and to the point. Describe the importance of your project, and what it does.
-
-Table of Contents: Optionally, include a table of contents in order to allow other people to quickly navigate especially long or detailed READMEs.
+Description: A Simple .Net core project with c#. Weekly collecting basic questions online and solving them in an easy way or format. The project has three cproj solutions namely Task.sln, ConsoleTest.sln and TestTask.sln each performing a distinct task.
 
 Installation: Installation is the next section in an effective README. Tell other users how to install your project locally. Optionally, include a gif to make the process even more clear for other people.
 
