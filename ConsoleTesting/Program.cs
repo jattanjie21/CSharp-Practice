@@ -30,11 +30,11 @@ namespace ConsoleTesting
             
             Console.WriteLine("-----------------");
 
-            //foreach (var c in taskOne.SwitchLastDigitToFirst())
-            //{
-            //    Console.Write(c);
-            //    Console.WriteLine();
-            //}
+            foreach (var c in taskOne.SwitchLastDigitToFirst())
+            {
+                Console.Write(c);
+                Console.WriteLine();
+            }
 
             Console.WriteLine("-----------------");
 

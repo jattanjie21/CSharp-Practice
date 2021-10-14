@@ -4,7 +4,7 @@ namespace TaskSolutions
 {
     public class TaskOne
     {
-        
+
         public int a { get; set; }
         public int b { get; set; }
         public int c { get; set; }
@@ -47,22 +47,16 @@ namespace TaskSolutions
 
         public List<int> SwitchLastDigitToFirst()
         {
-            
             List<int> switchedDigits = new() { last, second, third, first };
 
             return switchedDigits;
         }
 
-        //public List<string> SwitchThirdDigitToSecond()
-        //{
-        //    string first = collection[0].ToString();
-        //    string third = collection[2].ToString();
-        //    string second = collection[1].ToString();
-        //    string last = collection[3].ToString();
+        public List<int> SwitchThirdDigitToSecond()
+        {
+            List<int> switchedDigits = new() { first, third, second, last };
 
-        //    List<string> switchedDigits = new List<string> { first, third, second, last };
-
-        //    return switchedDigits;
-        //}
+            return switchedDigits;
+        }
     }
 }
