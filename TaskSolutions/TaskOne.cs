@@ -30,15 +30,7 @@ namespace TaskSolutions
 
         public List<int> ReverseDigits()
         {
-            //List<int> collection = new List<int>();
-
-            //collection.Add(a);
-            //collection.Add(b);
-            //collection.Add(c);
-            //collection.Add(d);
-
             collection.Reverse();
-
             return collection;
         }
 
