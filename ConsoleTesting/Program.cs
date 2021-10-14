@@ -8,7 +8,8 @@ namespace ConsoleTesting
         static void Main(string[] args)
         {
             //TASKONE!
-            //TaskOne taskOne = new TaskOne(2,0,1,1);
+
+            //TaskOne taskOne = new TaskOne(2, 0, 1, 1);
 
             //Console.WriteLine(taskOne.SumDigits());
             //Console.WriteLine("-----------------");

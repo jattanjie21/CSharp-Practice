@@ -8,6 +8,7 @@ namespace TaskSolutions
         public int b { get; set; }
         public int c { get; set; }
         public int d { get; set; }
+        public List<int> collection { get; set; }
 
         public TaskOne(int a,int b,int c,int d)
         {
@@ -15,6 +16,12 @@ namespace TaskSolutions
             this.b = b;
             this.c = c;
             this.d = d;
+
+            collection = new List<int>();
+            collection.Add(a);
+            collection.Add(b);
+            collection.Add(c);
+            collection.Add(d);
         }
         public int SumDigits()
         {
@@ -23,53 +30,53 @@ namespace TaskSolutions
 
         public List<int> ReverseDigits()
         {
-            List<int> collection = new List<int>();
+            //List<int> collection = new List<int>();
 
-            collection.Add(a);
-            collection.Add(b);
-            collection.Add(c);
-            collection.Add(d);
+            //collection.Add(a);
+            //collection.Add(b);
+            //collection.Add(c);
+            //collection.Add(d);
 
             collection.Reverse();
 
             return collection;
         }
 
-        public List<string> SwitchLastDigitToFirst()
-        {
-            List<int> collection = new List<int>();
+        //public List<string> SwitchLastDigitToFirst()
+        ////{
+        ////    List<int> collection = new List<int>();
 
-            collection.Add(a);
-            collection.Add(b);
-            collection.Add(c);
-            collection.Add(d);
+        ////    collection.Add(a);
+        ////    collection.Add(b);
+        ////    collection.Add(c);
+        ////    collection.Add(d);
 
-            string last =  collection[3].ToString();
-            string first = collection[0].ToString();
-            string second = collection[1].ToString();
-            string third = collection[2].ToString();
+        //    string last = collection[3].ToString();
+        //    string first = collection[0].ToString();
+        //    string second = collection[1].ToString();
+        //    string third = collection[2].ToString();
 
-            List<string> switchedDigits = new List<string> { last, first, second, third };
+        //    List<string> switchedDigits = new List<string> { last, first, second, third };
 
-            return switchedDigits;
-        }
-        public List<string> SwitchThirdDigitToSecond()
-        {
-            List<int> collection = new List<int>();
+        //    return switchedDigits;
+        //}
+        //public List<string> SwitchThirdDigitToSecond()
+        //{
+        //    List<int> collection = new List<int>();
 
-            collection.Add(a);
-            collection.Add(b);
-            collection.Add(c);
-            collection.Add(d);
+        //    collection.Add(a);
+        //    collection.Add(b);
+        //    collection.Add(c);
+        //    collection.Add(d);
 
-            string last = collection[3].ToString();
-            string first = collection[0].ToString();
-            string third = collection[2].ToString();
-            string second = collection[1].ToString();
+        //    string last = collection[3].ToString();
+        //    string first = collection[0].ToString();
+        //    string third = collection[2].ToString();
+        //    string second = collection[1].ToString();
 
-            List<string> switchedDigits = new List<string> { last, first, third, second };
+        //    List<string> switchedDigits = new List<string> { last, first, third, second };
 
-            return switchedDigits;
-        }
+        //    return switchedDigits;
+        //}
     }
 }
