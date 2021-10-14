@@ -20,5 +20,19 @@ namespace TestTaskSolutions
             Assert.Equal(expected, actual);
         }
 
+        [Fact]
+        public void TestComputeSumCheckTheSameNumbers()
+        {
+            //Arrange
+            TaskThree taskThree = new();
+
+            //Act
+            int expected = 12;
+            int actual = taskThree.ComputeSum(2, 2);
+
+            //Assert
+            Assert.Equal(expected, actual);
+        }
+
     }
 }

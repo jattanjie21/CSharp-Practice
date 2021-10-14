@@ -49,6 +49,13 @@ namespace ConsoleTesting
             TaskThree taskThree = new();
 
             Console.WriteLine(taskThree.ComputeSum(2, 2));
+
+            Console.WriteLine("-----------------");
+
+            //TASK FOUR
+            TaskFour taskFour = new();
+
+            Console.WriteLine(taskFour.CheckSumInput(30,0));
         }
     }
 }
