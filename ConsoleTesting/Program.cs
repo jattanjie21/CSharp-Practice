@@ -41,7 +41,7 @@ namespace ConsoleTesting
             //TASKTWO
             TaskTwo taskTwo = new TaskTwo(1,9);
 
-            taskTwo.MultiplyByTen();
+            taskTwo.MultiplyRandomNumber();
             //Console.WriteLine(taskTwo.RangeCalculator(0, 9));
 
 

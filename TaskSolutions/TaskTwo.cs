@@ -15,7 +15,7 @@ namespace TaskSolutions
             guess = rand.Next(min, max);
         }
         
-        public void MultiplyByTen()
+        public void MultiplyRandomNumber()
         {
             Random rand = new Random();
 
