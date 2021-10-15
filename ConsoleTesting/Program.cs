@@ -56,6 +56,12 @@ namespace ConsoleTesting
             TaskFour taskFour = new();
 
             Console.WriteLine(taskFour.CheckSumInput(30,0));
+
+            Console.WriteLine("-----------------");
+
+            //TASK FIVE
+            TaskFive taskFive = new();
+            Console.WriteLine(taskFive.PrintSomeText("if else"));
         }
     }
 }
