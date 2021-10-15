@@ -13,12 +13,21 @@ namespace TaskSolutions
 
         public TaskFive()
         {
-            this.B = "if";
+            this.B = "if ";
         }
-        //public string PrintSomeText(string text)
-        //{
-        //    string beginning = text.Substring()
-        //}
+        public string PrintSomeText(string text)
+        {
+            string beginning = text.Substring(0, 3);
+
+            if (beginning == "if")
+            {
+                return text;
+            }
+            else
+            {
+                return B + text;
+            }
+        }
 
     }
 }
