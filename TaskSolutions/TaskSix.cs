@@ -15,7 +15,6 @@ namespace TaskSolutions
         //public string WebsiteUrl { get; set; }
         public string Manager { get; set; }
 
-        //List<TaskSix> CompanyDetails = new();
         public TaskSix(string company, string manager)
         {
             this.CompanyName = company;
