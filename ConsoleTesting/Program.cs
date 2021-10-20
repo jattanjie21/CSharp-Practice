@@ -62,6 +62,12 @@ namespace ConsoleTesting
             //TASK FIVE
             TaskFive taskFive = new();
             Console.WriteLine(taskFive.PrintSomeText("if else"));
+
+            Console.WriteLine("-----------------");
+
+            //TaskSix
+            TaskSix taskSix = new("Facebook","Mark Zuckerberg");
+            Console.WriteLine(taskSix.CompanySummary());
         }
     }
 }

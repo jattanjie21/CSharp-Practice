@@ -16,3 +16,22 @@ C:\Users\somadina computers\Documents\CODELESS\CSharp-Practice\ConsoleTesting\ob
 C:\Users\somadina computers\Documents\CODELESS\CSharp-Practice\ConsoleTesting\obj\Debug\net5.0\ref\ConsoleTesting.dll
 C:\Users\somadina computers\Documents\CODELESS\CSharp-Practice\ConsoleTesting\obj\Debug\net5.0\ConsoleTesting.pdb
 C:\Users\somadina computers\Documents\CODELESS\CSharp-Practice\ConsoleTesting\obj\Debug\net5.0\ConsoleTesting.genruntimeconfig.cache
+C:\Users\USER\Documents\ENV\CSharp-Practice\ConsoleTesting\bin\Debug\net5.0\ConsoleTesting.exe
+C:\Users\USER\Documents\ENV\CSharp-Practice\ConsoleTesting\bin\Debug\net5.0\ConsoleTesting.deps.json
+C:\Users\USER\Documents\ENV\CSharp-Practice\ConsoleTesting\bin\Debug\net5.0\ConsoleTesting.runtimeconfig.json
+C:\Users\USER\Documents\ENV\CSharp-Practice\ConsoleTesting\bin\Debug\net5.0\ConsoleTesting.runtimeconfig.dev.json
+C:\Users\USER\Documents\ENV\CSharp-Practice\ConsoleTesting\bin\Debug\net5.0\ConsoleTesting.dll
+C:\Users\USER\Documents\ENV\CSharp-Practice\ConsoleTesting\bin\Debug\net5.0\ref\ConsoleTesting.dll
+C:\Users\USER\Documents\ENV\CSharp-Practice\ConsoleTesting\bin\Debug\net5.0\ConsoleTesting.pdb
+C:\Users\USER\Documents\ENV\CSharp-Practice\ConsoleTesting\bin\Debug\net5.0\TaskSolutions.dll
+C:\Users\USER\Documents\ENV\CSharp-Practice\ConsoleTesting\bin\Debug\net5.0\TaskSolutions.pdb
+C:\Users\USER\Documents\ENV\CSharp-Practice\ConsoleTesting\obj\Debug\net5.0\ConsoleTesting.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\ENV\CSharp-Practice\ConsoleTesting\obj\Debug\net5.0\ConsoleTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\ENV\CSharp-Practice\ConsoleTesting\obj\Debug\net5.0\ConsoleTesting.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\ENV\CSharp-Practice\ConsoleTesting\obj\Debug\net5.0\ConsoleTesting.AssemblyInfo.cs
+C:\Users\USER\Documents\ENV\CSharp-Practice\ConsoleTesting\obj\Debug\net5.0\ConsoleTesting.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\ENV\CSharp-Practice\ConsoleTesting\obj\Debug\net5.0\ConsoleTesting.csproj.CopyComplete
+C:\Users\USER\Documents\ENV\CSharp-Practice\ConsoleTesting\obj\Debug\net5.0\ConsoleTesting.dll
+C:\Users\USER\Documents\ENV\CSharp-Practice\ConsoleTesting\obj\Debug\net5.0\ref\ConsoleTesting.dll
+C:\Users\USER\Documents\ENV\CSharp-Practice\ConsoleTesting\obj\Debug\net5.0\ConsoleTesting.pdb
+C:\Users\USER\Documents\ENV\CSharp-Practice\ConsoleTesting\obj\Debug\net5.0\ConsoleTesting.genruntimeconfig.cache

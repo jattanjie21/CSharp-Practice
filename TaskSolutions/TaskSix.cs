@@ -22,6 +22,9 @@ namespace TaskSolutions
             this.Manager = manager;
         }
 
-        //public string 
+        public string CompanySummary()
+        {
+            return CompanyName + " " + Manager;
+        }
     }
 }
