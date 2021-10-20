@@ -9,16 +9,19 @@ namespace TaskSolutions
     public class TaskSix
     {
         public string CompanyName { get; set; }
-        public string Address { get; set; }
-        public int PhoneNumber { get; set; }
-        public int FaxNumber { get; set; }
-        public string WebsiteUrl { get; set; }
+        //public string Address { get; set; }
+        //public int PhoneNumber { get; set; }
+        //public int FaxNumber { get; set; }
+        //public string WebsiteUrl { get; set; }
         public string Manager { get; set; }
 
         List<TaskSix> CompanyDetails = new();
-        public TaskSix()
+        public TaskSix(string company, string manager)
         {
-
+            this.CompanyName = company;
+            this.Manager = manager;
         }
+
+        //public string 
     }
 }
