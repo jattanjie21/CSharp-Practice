@@ -6,20 +6,23 @@
 A Simple .Net core project with c#. Weekly collecting basic questions online and solving them in an easy way or format. The project has three cproj solutions namely Task.sln, ConsoleTest.sln and TestTask.sln each performing a distinct task.
 
  - Task.sln
+   This is a simple class library project were all the task are created.
 
 - ConsoleTest.sln
+  A simple .net core console application for testing all the class libraries from the task solution.
 
 - TestTask.sln
+  A unit test project for XUnit testing an alternative for testing the class libraries instead of using the console application.
 
 # Installation: 
 - Download and install Visual Studio Code.
 - Download and install the . NET Core SDK.
 - Install the C# extension from the Visual Studio Code marketplace.
 - Fork and Clone project repo.
-- Happy coding.
+- Open TaskSolutions.sln with either vs code or visual studio.
 
 # How To Contribute
-Project is designed to target both beginners and intermediate .net developers with the aim of adding tasks and solutions to the project. It has a unit test solution but nevermind if you are new to the concept just focus on the task solution project. After going through the installation section some of the links recommended all have a set of questions or task to solve choose from any or if you feel like adding a new link you can also do that.
+Project is designed to target both beginners and intermediate .net developers who code using c# by adding tasks and solutions to the project. It has a unit test solution but if you are new to the concept just focus on the task solution project. After going through the installation section some of the links recommended all have a set of questions or task to solve. If you want to add a new link first add the link and then the task to be completed.
 
 
 # Credits
