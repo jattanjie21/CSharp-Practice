@@ -11,6 +11,30 @@ namespace TaskSolutions
         public string Name { get; set; }
         public int Age { get; set; }
         public char Gender { get; set; }
-        public int EmployeeNumber { get; set; }
+
+        private int employeeNumber;
+
+        public int GetEmployeeNumber()
+        {
+            return employeeNumber;
+        }
+
+        public void SetEmployeeNumber(int value)
+        {
+            employeeNumber = value;
+        }
+
+        public TaskSeven(string name, int age, char gender)
+        {
+            this.Name = name;
+            this.Age = age;
+            this.Gender = gender;
+            
+        }
+
+        //public TaskSeven AddEmployee()
+        //{
+        //    SetEmployeeNumber(Range(27560000, 9999));
+        //}
     }
 }
