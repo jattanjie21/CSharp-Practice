@@ -22,7 +22,7 @@ A Simple .Net core project with c#. Weekly collecting basic questions online and
 - Open TaskSolutions.sln with either vs code or visual studio.
 
 # How To Contribute
-
+[Contribute]()
 
 
 # Credits
