@@ -34,6 +34,7 @@ namespace TaskSolutions
 
         //public TaskSeven AddEmployee()
         //{
+        //https://www.geeksforgeeks.org/range-structure-in-c-sharp-8-0/
         //    SetEmployeeNumber(Range(27560000, 9999));
         //}
     }
