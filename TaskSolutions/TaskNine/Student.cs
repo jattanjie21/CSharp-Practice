@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace TaskSolutions.TaskNine
 {
-    class Student
+    public class Student
     {
+        public Student()
+        {
+
+        }
     }
 }
