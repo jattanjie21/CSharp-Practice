@@ -1,5 +1,6 @@
 ﻿using DatabaseSimulation;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace TaskSolutions
 {
@@ -49,7 +50,14 @@ namespace TaskSolutions
 
         public string SearchBookByTitle(string title)
         {
-            return "title";
+            var search = (from d in databaseObject where d.Title == title select d).ToList();
+
+            if (search.Count != 0)
+                return "Book found";
+            else
+            {
+                return "Cannot find book check spelling";
+            }
         }
 
         public string DeleteBookByID(int id)
