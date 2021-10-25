@@ -50,9 +50,9 @@ namespace TaskSolutions
 
         public string SearchBookByTitle(string title)
         {
-            var search = (from d in databaseObject where d.Title == title select d).ToList();
+            var searchTitle = (from d in databaseObject where d.Title == title select d).ToList();
 
-            if (search.Count != 0)
+            if (searchTitle.Count != 0)
                 return "Book found";
             else
             {
@@ -62,9 +62,13 @@ namespace TaskSolutions
 
         public string DeleteBookByID(int id)
         {
-            //query id here
-            if (id!=0)            
-                return "found";
+            var searchID = (from d in databaseObject where d.ID == id select d).ToList();
+
+            if (searchID.Count != 0)
+            {
+                //var newBook = new TaskEightDatabase() { ID = id, Author = author, Title = title };
+            }            
+                
             
             else
             {
