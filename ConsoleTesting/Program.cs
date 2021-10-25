@@ -9,65 +9,70 @@ namespace ConsoleTesting
         {
             //TASK ONE
 
-            TaskOne taskOne = new TaskOne(2, 0, 1, 1);
+            //TaskOne taskOne = new TaskOne(2, 0, 1, 1);
 
-            Console.WriteLine(taskOne.SumDigits());
-            Console.WriteLine("-----------------");
+            //Console.WriteLine(taskOne.SumDigits());
+            //Console.WriteLine("-----------------");
 
-            foreach (var c in taskOne.ReverseDigits())
-            {
-                Console.Write(c);
-                Console.WriteLine();
-            }
+            //foreach (var c in taskOne.ReverseDigits())
+            //{
+            //    Console.Write(c);
+            //    Console.WriteLine();
+            //}
 
-            Console.WriteLine("-----------------");
+            //Console.WriteLine("-----------------");
 
-            foreach (var c in taskOne.SwitchLastDigitToFirst())
-            {
-                Console.Write(c);
-                Console.WriteLine();
-            }
-            
-            Console.WriteLine("-----------------");
+            //foreach (var c in taskOne.SwitchLastDigitToFirst())
+            //{
+            //    Console.Write(c);
+            //    Console.WriteLine();
+            //}
 
-            foreach (var c in taskOne.SwitchLastDigitToFirst())
-            {
-                Console.Write(c);
-                Console.WriteLine();
-            }
+            //Console.WriteLine("-----------------");
 
-            Console.WriteLine("-----------------");
+            //foreach (var c in taskOne.SwitchLastDigitToFirst())
+            //{
+            //    Console.Write(c);
+            //    Console.WriteLine();
+            //}
 
-            //TASK TWO
-            TaskTwo taskTwo = new TaskTwo(1,9);
+            //Console.WriteLine("-----------------");
 
-            taskTwo.MultiplyRandomNumber();
+            ////TASK TWO
+            //TaskTwo taskTwo = new TaskTwo(1,9);
 
-            Console.WriteLine("-----------------");
+            //taskTwo.MultiplyRandomNumber();
 
-            //TASK THREE
-            TaskThree taskThree = new();
+            //Console.WriteLine("-----------------");
 
-            Console.WriteLine(taskThree.ComputeSum(2, 2));
+            ////TASK THREE
+            //TaskThree taskThree = new();
 
-            Console.WriteLine("-----------------");
+            //Console.WriteLine(taskThree.ComputeSum(2, 2));
 
-            //TASK FOUR
-            TaskFour taskFour = new();
+            //Console.WriteLine("-----------------");
 
-            Console.WriteLine(taskFour.CheckSumInput(30,0));
+            ////TASK FOUR
+            //TaskFour taskFour = new();
 
-            Console.WriteLine("-----------------");
+            //Console.WriteLine(taskFour.CheckSumInput(30,0));
 
-            //TASK FIVE
-            TaskFive taskFive = new();
-            Console.WriteLine(taskFive.PrintSomeText("if else"));
+            //Console.WriteLine("-----------------");
 
-            Console.WriteLine("-----------------");
+            ////TASK FIVE
+            //TaskFive taskFive = new();
+            //Console.WriteLine(taskFive.PrintSomeText("if else"));
 
-            //TaskSix
-            TaskSix taskSix = new("Facebook","Mark Zuckerberg");
-            Console.WriteLine(taskSix.CompanySummary());
+            //Console.WriteLine("-----------------");
+
+            ////TaskSix
+            //TaskSix taskSix = new("Facebook","Mark Zuckerberg");
+            //Console.WriteLine(taskSix.CompanySummary());
+
+            //TaskEight
+            TaskEight taskEight = new();
+
+            Console.WriteLine(taskEight.AddNewBook("Lamin", "Book Lamin"));
         }
     }
 }
