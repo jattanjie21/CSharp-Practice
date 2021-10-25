@@ -12,5 +12,12 @@ namespace TaskSolutions.TaskNine
             return "I am going to class";
         }
 
+        public string ShowAge(int n)
+        {
+            var age = SetAge(n);
+
+            return $"My age is: {age}";
+        }
+
     }
 }
