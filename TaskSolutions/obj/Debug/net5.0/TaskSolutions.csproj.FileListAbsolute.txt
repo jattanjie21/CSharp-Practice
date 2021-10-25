@@ -22,3 +22,5 @@ C:\Users\USER\Documents\ENV\CSharp-Practice\TaskSolutions\obj\Debug\net5.0\TaskS
 C:\Users\USER\Documents\ENV\CSharp-Practice\TaskSolutions\obj\Debug\net5.0\TaskSolutions.dll
 C:\Users\USER\Documents\ENV\CSharp-Practice\TaskSolutions\obj\Debug\net5.0\ref\TaskSolutions.dll
 C:\Users\USER\Documents\ENV\CSharp-Practice\TaskSolutions\obj\Debug\net5.0\TaskSolutions.pdb
+C:\Users\USER\Documents\ENV\CSharp-Practice\TaskSolutions\bin\Debug\net5.0\DatabaseSimulation.dll
+C:\Users\USER\Documents\ENV\CSharp-Practice\TaskSolutions\bin\Debug\net5.0\DatabaseSimulation.pdb
