@@ -6,14 +6,18 @@ namespace TaskSolutions.TaskNine
         public string Name { get; set; }
         public int Age { get; set; }
 
-        public Person()
+        public Person(string name, int age)
         {
-
+            this.Name = name;
+            this.Age = age;
         }
-
-        public int SetAge(int n)
+        public string Hello()
         {
-            return n;
+            return "Hello " + Name;
+        }
+        public int SetAge()
+        {
+            return Age;
         }
     }
 }
