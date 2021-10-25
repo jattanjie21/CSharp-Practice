@@ -75,11 +75,10 @@ namespace TaskSolutions
             }
         }
 
-        //options method here
-        //to allow users to 
-        //choose options
-        //preferably a switch 
-        //statement
+        public string ExitProgram()
+        {
+            return "Program is exiting............";
+        }
     }
 
 }
