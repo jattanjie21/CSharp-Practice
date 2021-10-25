@@ -30,7 +30,6 @@ C:\Users\USER\Documents\ENV\CSharp-Practice\ConsoleTesting\obj\Debug\net5.0\Cons
 C:\Users\USER\Documents\ENV\CSharp-Practice\ConsoleTesting\obj\Debug\net5.0\ConsoleTesting.AssemblyInfoInputs.cache
 C:\Users\USER\Documents\ENV\CSharp-Practice\ConsoleTesting\obj\Debug\net5.0\ConsoleTesting.AssemblyInfo.cs
 C:\Users\USER\Documents\ENV\CSharp-Practice\ConsoleTesting\obj\Debug\net5.0\ConsoleTesting.csproj.CoreCompileInputs.cache
-C:\Users\USER\Documents\ENV\CSharp-Practice\ConsoleTesting\obj\Debug\net5.0\ConsoleTesting.csproj.CopyComplete
 C:\Users\USER\Documents\ENV\CSharp-Practice\ConsoleTesting\obj\Debug\net5.0\ConsoleTesting.dll
 C:\Users\USER\Documents\ENV\CSharp-Practice\ConsoleTesting\obj\Debug\net5.0\ref\ConsoleTesting.dll
 C:\Users\USER\Documents\ENV\CSharp-Practice\ConsoleTesting\obj\Debug\net5.0\ConsoleTesting.pdb

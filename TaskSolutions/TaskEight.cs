@@ -38,7 +38,13 @@ namespace TaskSolutions
 
         public List<string> DisplayBookDetails()
         {
-            return null;
+            List<string> result = new List<string>();
+
+            foreach (var book in databaseObject)
+            {
+                result.Add(book.Title + book.Author); 
+            }
+            return result;
         }
 
         public string SearchBookByTitle(string title)
