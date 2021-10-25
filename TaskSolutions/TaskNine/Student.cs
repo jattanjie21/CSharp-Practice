@@ -7,5 +7,9 @@ namespace TaskSolutions.TaskNine
         {
 
         }
+        public string GoToClasses()
+        {
+            return "I am going to class";
+        }
     }
 }

@@ -7,5 +7,9 @@ namespace TaskSolutions.TaskNine
         {
 
         }
+        public string Explain()
+        {
+            return "Explanation begins";
+        }
     }
 }
