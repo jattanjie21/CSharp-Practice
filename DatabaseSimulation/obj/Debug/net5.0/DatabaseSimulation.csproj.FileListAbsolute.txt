@@ -1,0 +1,12 @@
+C:\Users\USER\Documents\ENV\CSharp-Practice\DatabaseSimulation\bin\Debug\net5.0\DatabaseSimulation.deps.json
+C:\Users\USER\Documents\ENV\CSharp-Practice\DatabaseSimulation\bin\Debug\net5.0\DatabaseSimulation.dll
+C:\Users\USER\Documents\ENV\CSharp-Practice\DatabaseSimulation\bin\Debug\net5.0\ref\DatabaseSimulation.dll
+C:\Users\USER\Documents\ENV\CSharp-Practice\DatabaseSimulation\bin\Debug\net5.0\DatabaseSimulation.pdb
+C:\Users\USER\Documents\ENV\CSharp-Practice\DatabaseSimulation\obj\Debug\net5.0\DatabaseSimulation.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\ENV\CSharp-Practice\DatabaseSimulation\obj\Debug\net5.0\DatabaseSimulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\ENV\CSharp-Practice\DatabaseSimulation\obj\Debug\net5.0\DatabaseSimulation.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\ENV\CSharp-Practice\DatabaseSimulation\obj\Debug\net5.0\DatabaseSimulation.AssemblyInfo.cs
+C:\Users\USER\Documents\ENV\CSharp-Practice\DatabaseSimulation\obj\Debug\net5.0\DatabaseSimulation.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\ENV\CSharp-Practice\DatabaseSimulation\obj\Debug\net5.0\DatabaseSimulation.dll
+C:\Users\USER\Documents\ENV\CSharp-Practice\DatabaseSimulation\obj\Debug\net5.0\ref\DatabaseSimulation.dll
+C:\Users\USER\Documents\ENV\CSharp-Practice\DatabaseSimulation\obj\Debug\net5.0\DatabaseSimulation.pdb
