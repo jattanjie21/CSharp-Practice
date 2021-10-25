@@ -5,11 +5,17 @@ namespace TaskSolutions
 {
     public class TaskEight
     {
-        List<TaskEightDatabase> databaseObject = new List<TaskEightDatabase>();
+        List<TaskEightDatabase> databaseObject = new();
 
         public TaskEight()
         {
-                
+            //Mock data
+            databaseObject = new List<TaskEightDatabase>
+            {
+                new TaskEightDatabase(){ID = 1, Author = "Mr Author", Title = "Book One"},
+                new TaskEightDatabase(){ID = 2, Author = "Mr Author", Title = "Book Two"},
+                new TaskEightDatabase(){ID = 3, Author = "Mr Author", Title = "Book Three"}
+            };
         }
 
         public int AddNewBook()
