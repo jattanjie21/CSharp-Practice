@@ -66,7 +66,7 @@ namespace TaskSolutions
 
             if (searchID.Count != 0)
             {
-                return $"Book with id = {id} was successfully deleted";
+                return $"Book with ID({id}) was successfully deleted";
             }            
                            
             else
