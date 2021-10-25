@@ -70,7 +70,7 @@ namespace ConsoleTesting
             //Console.WriteLine(taskSix.CompanySummary());
 
             //TaskEight
-            TaskEight taskEight = new();
+            //TaskEight taskEight = new();
 
             //Console.WriteLine(taskEight.AddNewBook("New Author", "New Book"));
 
@@ -79,7 +79,7 @@ namespace ConsoleTesting
             //    Console.WriteLine(item);
             //}
             //Console.WriteLine(taskEight.SearchBookByTitle("Book One"));
-            Console.WriteLine(taskEight.DeleteBookByID(1));
+            //
         }
     }
 }
