@@ -6,6 +6,7 @@ namespace TaskSolutions
     public class TaskEight
     {
         List<TaskEightDatabase> databaseObject = new();
+        public int id { get; set; }
 
         public TaskEight()
         {
@@ -20,8 +21,17 @@ namespace TaskSolutions
 
         public int AddNewBook(string author, string title)
         {
+            if(databaseObject.Count > 0)            
+                id = databaseObject.Count + 1;
+            else
+            {
+                id = 1;
+            }
+            var newBook = new TaskEightDatabase() { ID = id, Author = author, Title = title };
 
-            databaseObject.Add();
+            databaseObject.Add(newBook);
+
+            return id;
         }
 
         public List<string> DisplayBookDetails()
