@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DatabaseSimulation;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,6 +9,8 @@ namespace TaskSolutions
 {
     public class TaskEight
     {
-        
+        List<TaskEightDatabase> databaseObject = new List<TaskEightDatabase>();
+
+
     }
 }
