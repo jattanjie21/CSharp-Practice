@@ -23,10 +23,12 @@ namespace TaskSolutions
         {
             if(databaseObject.Count > 0)            
                 id = databaseObject.Count + 1;
+
             else
             {
                 id = 1;
             }
+
             var newBook = new TaskEightDatabase() { ID = id, Author = author, Title = title };
 
             databaseObject.Add(newBook);
