@@ -42,7 +42,7 @@ namespace TaskSolutions
 
             foreach (var book in databaseObject)
             {
-                result.Add(book.Title + book.Author); 
+                result.Add(book.Title +" "+ book.Author); 
             }
             return result;
         }
