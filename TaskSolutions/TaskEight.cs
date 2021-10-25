@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace TaskSolutions
 {
-    class TaskEight
+    public class TaskEight
     {
+
     }
 }
