@@ -36,3 +36,4 @@ C:\Users\USER\Documents\ENV\CSharp-Practice\ConsoleTesting\obj\Debug\net5.0\Cons
 C:\Users\USER\Documents\ENV\CSharp-Practice\ConsoleTesting\obj\Debug\net5.0\ConsoleTesting.genruntimeconfig.cache
 C:\Users\USER\Documents\ENV\CSharp-Practice\ConsoleTesting\bin\Debug\net5.0\DatabaseSimulation.dll
 C:\Users\USER\Documents\ENV\CSharp-Practice\ConsoleTesting\bin\Debug\net5.0\DatabaseSimulation.pdb
+C:\Users\USER\Documents\ENV\CSharp-Practice\ConsoleTesting\obj\Debug\net5.0\ConsoleTesting.csproj.CopyComplete

@@ -66,13 +66,12 @@ namespace TaskSolutions
 
             if (searchID.Count != 0)
             {
-                //var newBook = new TaskEightDatabase() { ID = id, Author = author, Title = title };
+                return "Book with id = {id} was successfully deleted";
             }            
-                
-            
+                           
             else
             {
-                return "book not found or available";
+                return "book deleted or unavailable";
             }
         }
 

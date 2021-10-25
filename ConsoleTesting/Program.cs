@@ -79,6 +79,7 @@ namespace ConsoleTesting
             //    Console.WriteLine(item);
             //}
             //Console.WriteLine(taskEight.SearchBookByTitle("Book One"));
+            Console.WriteLine(taskEight.DeleteBookByID(1));
         }
     }
 }
