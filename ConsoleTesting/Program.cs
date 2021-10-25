@@ -72,14 +72,12 @@ namespace ConsoleTesting
             //TaskEight
             TaskEight taskEight = new();
 
-            //Console.WriteLine(taskEight.AddNewBook("Lamin", "Book Lamin"));
+            //Console.WriteLine(taskEight.AddNewBook("New Author", "New Book"));
 
-            //Console.WriteLine(taskEight.DisplayBookDetails());
-
-            foreach (var item in taskEight.DisplayBookDetails())
-            {
-                Console.WriteLine(item);
-            }
+            //foreach (var item in taskEight.DisplayBookDetails())
+            //{
+            //    Console.WriteLine(item);
+            //}
         }
     }
 }
