@@ -18,9 +18,10 @@ namespace TaskSolutions
             };
         }
 
-        public int AddNewBook()
+        public int AddNewBook(string author, string title)
         {
-            return 1;
+
+            databaseObject.Add();
         }
 
         public List<string> DisplayBookDetails()
