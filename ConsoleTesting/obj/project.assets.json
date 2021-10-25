@@ -2,9 +2,22 @@
   "version": 3,
   "targets": {
     "net5.0": {
+      "DatabaseSimulation/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/DatabaseSimulation.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DatabaseSimulation.dll": {}
+        }
+      },
       "TaskSolutions/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "DatabaseSimulation": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/TaskSolutions.dll": {}
         },
@@ -15,6 +28,11 @@
     }
   },
   "libraries": {
+    "DatabaseSimulation/1.0.0": {
+      "type": "project",
+      "path": "../DatabaseSimulation/DatabaseSimulation.csproj",
+      "msbuildProject": "../DatabaseSimulation/DatabaseSimulation.csproj"
+    },
     "TaskSolutions/1.0.0": {
       "type": "project",
       "path": "../TaskSolutions/TaskSolutions.csproj",
