@@ -3,6 +3,7 @@ namespace TaskSolutions.TaskNine
 {
     public class Teacher : Person
     {
+        private string Subject;
         public Teacher()
         {
 

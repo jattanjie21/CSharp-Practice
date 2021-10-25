@@ -10,5 +10,10 @@ namespace TaskSolutions.TaskNine
         {
 
         }
+
+        public int SetAge(int n)
+        {
+            return n;
+        }
     }
 }
