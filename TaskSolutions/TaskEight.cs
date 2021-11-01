@@ -70,7 +70,7 @@ namespace TaskSolutions
             }                                       
             else
             {
-                return "book deleted or unavailable";
+                return "book is deleted or unavailable";
             }
         }
 
