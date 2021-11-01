@@ -67,8 +67,7 @@ namespace TaskSolutions
             if (searchID.Count != 0)
             {
                 return $"Book with ID({id}) was successfully deleted";
-            }            
-                           
+            }                                       
             else
             {
                 return "book deleted or unavailable";
