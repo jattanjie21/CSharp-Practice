@@ -8,6 +8,11 @@ namespace Simulation.NTierArchitecture.BLL
 {
     public class Simulation
     {
+        SimulationDAL simulationDAL = new SimulationDAL();
 
+        public int CreateNewUser()
+        {
+            return simulationDAL.CreateNewUser();
+        }
     }
 }
