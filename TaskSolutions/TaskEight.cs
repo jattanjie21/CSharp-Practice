@@ -56,7 +56,7 @@ namespace TaskSolutions
                 return "Book found";
             else
             {
-                return "Cannot find book check spelling";
+                return $"Cannot find {title} check spelling";
             }
         }
 
