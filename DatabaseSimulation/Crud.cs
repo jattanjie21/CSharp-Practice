@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace DatabaseSimulation
 {
-    class Crud
+    public class Crud
     {
+
     }
 }
