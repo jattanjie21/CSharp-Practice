@@ -4,4 +4,14 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="BLL\SimulatioBLL.cs" />
+    <Compile Remove="DAL\SimulationDAL.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="BLL\SimulatioBLL.cs" />
+    <None Include="DAL\SimulationDAL.cs" />
+  </ItemGroup>
+
 </Project>
