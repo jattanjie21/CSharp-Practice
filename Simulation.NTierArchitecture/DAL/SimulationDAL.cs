@@ -17,5 +17,10 @@ namespace Simulation.NTierArchitecture.DAL
         {
             return 1;
         }
+
+        public List<Crud> GetAllUsers()
+        {
+            return null;
+        }
     }
 }

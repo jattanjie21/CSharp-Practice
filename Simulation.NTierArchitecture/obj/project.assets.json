@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "DatabaseSimulation/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/DatabaseSimulation.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DatabaseSimulation.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "DatabaseSimulation/1.0.0": {
+      "type": "project",
+      "path": "../DatabaseSimulation/DatabaseSimulation.csproj",
+      "msbuildProject": "../DatabaseSimulation/DatabaseSimulation.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "DatabaseSimulation >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\USER\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\USER\\Documents\\ENV\\CSharp-Practice\\DatabaseSimulation\\DatabaseSimulation.csproj": {
+              "projectPath": "C:\\Users\\USER\\Documents\\ENV\\CSharp-Practice\\DatabaseSimulation\\DatabaseSimulation.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

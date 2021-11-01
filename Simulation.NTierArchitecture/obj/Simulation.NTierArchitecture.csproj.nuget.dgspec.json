@@ -4,6 +4,60 @@
     "C:\\Users\\USER\\Documents\\ENV\\CSharp-Practice\\Simulation.NTierArchitecture\\Simulation.NTierArchitecture.csproj": {}
   },
   "projects": {
+    "C:\\Users\\USER\\Documents\\ENV\\CSharp-Practice\\DatabaseSimulation\\DatabaseSimulation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\USER\\Documents\\ENV\\CSharp-Practice\\DatabaseSimulation\\DatabaseSimulation.csproj",
+        "projectName": "DatabaseSimulation",
+        "projectPath": "C:\\Users\\USER\\Documents\\ENV\\CSharp-Practice\\DatabaseSimulation\\DatabaseSimulation.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USER\\Documents\\ENV\\CSharp-Practice\\DatabaseSimulation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://packagesource": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\USER\\Documents\\ENV\\CSharp-Practice\\Simulation.NTierArchitecture\\Simulation.NTierArchitecture.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -27,7 +81,11 @@
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\USER\\Documents\\ENV\\CSharp-Practice\\DatabaseSimulation\\DatabaseSimulation.csproj": {
+                "projectPath": "C:\\Users\\USER\\Documents\\ENV\\CSharp-Practice\\DatabaseSimulation\\DatabaseSimulation.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

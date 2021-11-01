@@ -14,4 +14,8 @@
     <None Include="DAL\SimulationDAL.cs" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\DatabaseSimulation\DatabaseSimulation.csproj" />
+  </ItemGroup>
+
 </Project>
