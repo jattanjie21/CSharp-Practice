@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\somadina computers\\Documents\\CODELESS\\CSharp-Practice\\ConsoleTesting\\ConsoleTesting.csproj": {}
+    "C:\\Users\\USER\\Documents\\ENV\\CSharp-Practice\\ConsoleTesting\\ConsoleTesting.csproj": {}
   },
   "projects": {
-    "C:\\Users\\somadina computers\\Documents\\CODELESS\\CSharp-Practice\\ConsoleTesting\\ConsoleTesting.csproj": {
+    "C:\\Users\\USER\\Documents\\ENV\\CSharp-Practice\\ConsoleTesting\\ConsoleTesting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\somadina computers\\Documents\\CODELESS\\CSharp-Practice\\ConsoleTesting\\ConsoleTesting.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Documents\\ENV\\CSharp-Practice\\ConsoleTesting\\ConsoleTesting.csproj",
         "projectName": "ConsoleTesting",
-        "projectPath": "C:\\Users\\somadina computers\\Documents\\CODELESS\\CSharp-Practice\\ConsoleTesting\\ConsoleTesting.csproj",
-        "packagesPath": "C:\\Users\\somadina computers\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\somadina computers\\Documents\\CODELESS\\CSharp-Practice\\ConsoleTesting\\obj\\",
+        "projectPath": "C:\\Users\\USER\\Documents\\ENV\\CSharp-Practice\\ConsoleTesting\\ConsoleTesting.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USER\\Documents\\ENV\\CSharp-Practice\\ConsoleTesting\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\somadina computers\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,14 +22,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://packagesource": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\somadina computers\\Documents\\CODELESS\\CSharp-Practice\\TaskSolutions\\TaskSolutions.csproj": {
-                "projectPath": "C:\\Users\\somadina computers\\Documents\\CODELESS\\CSharp-Practice\\TaskSolutions\\TaskSolutions.csproj"
+              "C:\\Users\\USER\\Documents\\ENV\\CSharp-Practice\\TaskSolutions\\TaskSolutions.csproj": {
+                "projectPath": "C:\\Users\\USER\\Documents\\ENV\\CSharp-Practice\\TaskSolutions\\TaskSolutions.csproj"
               }
             }
           }
@@ -62,25 +58,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.2.21505.57\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\somadina computers\\Documents\\CODELESS\\CSharp-Practice\\DatabaseSimulation\\DatabaseSimulation.csproj": {
+    "C:\\Users\\USER\\Documents\\ENV\\CSharp-Practice\\DatabaseSimulation\\DatabaseSimulation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\somadina computers\\Documents\\CODELESS\\CSharp-Practice\\DatabaseSimulation\\DatabaseSimulation.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Documents\\ENV\\CSharp-Practice\\DatabaseSimulation\\DatabaseSimulation.csproj",
         "projectName": "DatabaseSimulation",
-        "projectPath": "C:\\Users\\somadina computers\\Documents\\CODELESS\\CSharp-Practice\\DatabaseSimulation\\DatabaseSimulation.csproj",
-        "packagesPath": "C:\\Users\\somadina computers\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\somadina computers\\Documents\\CODELESS\\CSharp-Practice\\DatabaseSimulation\\obj\\",
+        "projectPath": "C:\\Users\\USER\\Documents\\ENV\\CSharp-Practice\\DatabaseSimulation\\DatabaseSimulation.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USER\\Documents\\ENV\\CSharp-Practice\\DatabaseSimulation\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\somadina computers\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -88,7 +80,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://packagesource": {}
         },
         "frameworks": {
           "net5.0": {
@@ -120,25 +112,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.2.21505.57\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\somadina computers\\Documents\\CODELESS\\CSharp-Practice\\TaskSolutions\\TaskSolutions.csproj": {
+    "C:\\Users\\USER\\Documents\\ENV\\CSharp-Practice\\TaskSolutions\\TaskSolutions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\somadina computers\\Documents\\CODELESS\\CSharp-Practice\\TaskSolutions\\TaskSolutions.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Documents\\ENV\\CSharp-Practice\\TaskSolutions\\TaskSolutions.csproj",
         "projectName": "TaskSolutions",
-        "projectPath": "C:\\Users\\somadina computers\\Documents\\CODELESS\\CSharp-Practice\\TaskSolutions\\TaskSolutions.csproj",
-        "packagesPath": "C:\\Users\\somadina computers\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\somadina computers\\Documents\\CODELESS\\CSharp-Practice\\TaskSolutions\\obj\\",
+        "projectPath": "C:\\Users\\USER\\Documents\\ENV\\CSharp-Practice\\TaskSolutions\\TaskSolutions.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USER\\Documents\\ENV\\CSharp-Practice\\TaskSolutions\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\somadina computers\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -146,14 +134,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://packagesource": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\somadina computers\\Documents\\CODELESS\\CSharp-Practice\\DatabaseSimulation\\DatabaseSimulation.csproj": {
-                "projectPath": "C:\\Users\\somadina computers\\Documents\\CODELESS\\CSharp-Practice\\DatabaseSimulation\\DatabaseSimulation.csproj"
+              "C:\\Users\\USER\\Documents\\ENV\\CSharp-Practice\\DatabaseSimulation\\DatabaseSimulation.csproj": {
+                "projectPath": "C:\\Users\\USER\\Documents\\ENV\\CSharp-Practice\\DatabaseSimulation\\DatabaseSimulation.csproj"
               }
             }
           }
@@ -182,7 +170,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.2.21505.57\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
