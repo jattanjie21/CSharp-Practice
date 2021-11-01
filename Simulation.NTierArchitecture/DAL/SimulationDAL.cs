@@ -8,6 +8,14 @@ namespace Simulation.NTierArchitecture.DAL
 {
     public class SimulationDAL
     {
+        public int CreateNewUser()
+        {
+            return 1;
+        }
 
+        public int GetUserIDByName(string username)
+        {
+            return 1;
+        }
     }
 }
