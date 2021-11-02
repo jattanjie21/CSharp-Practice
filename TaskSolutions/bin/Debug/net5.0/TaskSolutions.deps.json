@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TaskSolutions/1.0.0": {
+        "dependencies": {
+          "DatabaseSimulation": "1.0.0"
+        },
+        "runtime": {
+          "TaskSolutions.dll": {}
+        }
+      },
+      "DatabaseSimulation/1.0.0": {
+        "runtime": {
+          "DatabaseSimulation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TaskSolutions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DatabaseSimulation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

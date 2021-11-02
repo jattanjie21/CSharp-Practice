@@ -70,16 +70,16 @@ namespace ConsoleTesting
             //Console.WriteLine(taskSix.CompanySummary());
 
             //TaskEight
-            //TaskEight taskEight = new();
+            TaskEight taskEight = new();
 
-            //Console.WriteLine(taskEight.AddNewBook("New Author", "New Book"));
+            Console.WriteLine(taskEight.AddNewBook("New Author", "New Book"));
 
-            //foreach (var item in taskEight.DisplayBookDetails())
-            //{
-            //    Console.WriteLine(item);
-            //}
-            //Console.WriteLine(taskEight.SearchBookByTitle("Book One"));
-            //
+            foreach (var item in taskEight.DisplayBookDetails())
+            {
+                Console.WriteLine(item);
+            }
+            Console.WriteLine(taskEight.SearchBookByTitle("Book One"));
+
         }
     }
 }

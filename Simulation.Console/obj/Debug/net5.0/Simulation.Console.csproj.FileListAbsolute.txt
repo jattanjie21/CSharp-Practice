@@ -1,0 +1,16 @@
+C:\Users\USER\Documents\ENV\CSharp-Practice\Simulation.Console\bin\Debug\net5.0\Simulation.Console.exe
+C:\Users\USER\Documents\ENV\CSharp-Practice\Simulation.Console\bin\Debug\net5.0\Simulation.Console.deps.json
+C:\Users\USER\Documents\ENV\CSharp-Practice\Simulation.Console\bin\Debug\net5.0\Simulation.Console.runtimeconfig.json
+C:\Users\USER\Documents\ENV\CSharp-Practice\Simulation.Console\bin\Debug\net5.0\Simulation.Console.runtimeconfig.dev.json
+C:\Users\USER\Documents\ENV\CSharp-Practice\Simulation.Console\bin\Debug\net5.0\Simulation.Console.dll
+C:\Users\USER\Documents\ENV\CSharp-Practice\Simulation.Console\bin\Debug\net5.0\ref\Simulation.Console.dll
+C:\Users\USER\Documents\ENV\CSharp-Practice\Simulation.Console\bin\Debug\net5.0\Simulation.Console.pdb
+C:\Users\USER\Documents\ENV\CSharp-Practice\Simulation.Console\obj\Debug\net5.0\Simulation.Console.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\ENV\CSharp-Practice\Simulation.Console\obj\Debug\net5.0\Simulation.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\ENV\CSharp-Practice\Simulation.Console\obj\Debug\net5.0\Simulation.Console.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\ENV\CSharp-Practice\Simulation.Console\obj\Debug\net5.0\Simulation.Console.AssemblyInfo.cs
+C:\Users\USER\Documents\ENV\CSharp-Practice\Simulation.Console\obj\Debug\net5.0\Simulation.Console.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\ENV\CSharp-Practice\Simulation.Console\obj\Debug\net5.0\Simulation.Console.dll
+C:\Users\USER\Documents\ENV\CSharp-Practice\Simulation.Console\obj\Debug\net5.0\ref\Simulation.Console.dll
+C:\Users\USER\Documents\ENV\CSharp-Practice\Simulation.Console\obj\Debug\net5.0\Simulation.Console.pdb
+C:\Users\USER\Documents\ENV\CSharp-Practice\Simulation.Console\obj\Debug\net5.0\Simulation.Console.genruntimeconfig.cache

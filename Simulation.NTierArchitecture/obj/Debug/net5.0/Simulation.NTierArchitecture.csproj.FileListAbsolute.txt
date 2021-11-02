@@ -1,0 +1,15 @@
+C:\Users\USER\Documents\ENV\CSharp-Practice\Simulation.NTierArchitecture\bin\Debug\net5.0\Simulation.NTierArchitecture.deps.json
+C:\Users\USER\Documents\ENV\CSharp-Practice\Simulation.NTierArchitecture\bin\Debug\net5.0\Simulation.NTierArchitecture.dll
+C:\Users\USER\Documents\ENV\CSharp-Practice\Simulation.NTierArchitecture\bin\Debug\net5.0\ref\Simulation.NTierArchitecture.dll
+C:\Users\USER\Documents\ENV\CSharp-Practice\Simulation.NTierArchitecture\bin\Debug\net5.0\Simulation.NTierArchitecture.pdb
+C:\Users\USER\Documents\ENV\CSharp-Practice\Simulation.NTierArchitecture\bin\Debug\net5.0\DatabaseSimulation.dll
+C:\Users\USER\Documents\ENV\CSharp-Practice\Simulation.NTierArchitecture\bin\Debug\net5.0\DatabaseSimulation.pdb
+C:\Users\USER\Documents\ENV\CSharp-Practice\Simulation.NTierArchitecture\obj\Debug\net5.0\Simulation.NTierArchitecture.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\ENV\CSharp-Practice\Simulation.NTierArchitecture\obj\Debug\net5.0\Simulation.NTierArchitecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\ENV\CSharp-Practice\Simulation.NTierArchitecture\obj\Debug\net5.0\Simulation.NTierArchitecture.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\ENV\CSharp-Practice\Simulation.NTierArchitecture\obj\Debug\net5.0\Simulation.NTierArchitecture.AssemblyInfo.cs
+C:\Users\USER\Documents\ENV\CSharp-Practice\Simulation.NTierArchitecture\obj\Debug\net5.0\Simulation.NTierArchitecture.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\ENV\CSharp-Practice\Simulation.NTierArchitecture\obj\Debug\net5.0\Simulation.NTierArchitecture.csproj.CopyComplete
+C:\Users\USER\Documents\ENV\CSharp-Practice\Simulation.NTierArchitecture\obj\Debug\net5.0\Simulation.NTierArchitecture.dll
+C:\Users\USER\Documents\ENV\CSharp-Practice\Simulation.NTierArchitecture\obj\Debug\net5.0\ref\Simulation.NTierArchitecture.dll
+C:\Users\USER\Documents\ENV\CSharp-Practice\Simulation.NTierArchitecture\obj\Debug\net5.0\Simulation.NTierArchitecture.pdb
