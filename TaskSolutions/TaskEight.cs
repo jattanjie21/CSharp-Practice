@@ -56,8 +56,9 @@ namespace TaskSolutions
                 return "Book found";
             else
             {
-                return "Cannot find book check spelling";
+                return $"Cannot find {title} check spelling";
             }
+
         }
 
         public string DeleteBookByID(int id)
@@ -67,11 +68,10 @@ namespace TaskSolutions
             if (searchID.Count != 0)
             {
                 return $"Book with ID({id}) was successfully deleted";
-            }            
-                           
+            }                                       
             else
             {
-                return "book deleted or unavailable";
+                return "Book is unavailable";
             }
         }
 

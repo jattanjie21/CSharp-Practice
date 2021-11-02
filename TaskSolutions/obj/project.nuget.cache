@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "GhM5/7XIVvXLIMljj+egJ6sdEDIjsbx3DDno6cT+i6ASycTQUhpIqJSaUx6HmETZSm7p2UbgahmbhCXtCxRxiw==",
   "success": true,
   "projectFilePath": "C:\\Users\\somadina computers\\Documents\\CODELESS\\CSharp-Practice\\TaskSolutions\\TaskSolutions.csproj",
+=======
+  "dgSpecHash": "2X9Wts+UmZWyfSLfmSB9m+0ehd3M7QWRTOeqSN3QX74WdlCRp8Pp/784I9gq6I7nM1qzKdeOK0GolDjH8MPISA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\Documents\\ENV\\CSharp-Practice\\TaskSolutions\\TaskSolutions.csproj",
+>>>>>>> 80b44de31a5ca34e97fe9249c1c3e61ed6817ef8
   "expectedPackageFiles": [],
   "logs": []
 }

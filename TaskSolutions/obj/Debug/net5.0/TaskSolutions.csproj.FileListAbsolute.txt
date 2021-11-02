@@ -10,3 +10,18 @@ C:\Users\somadina computers\Documents\CODELESS\CSharp-Practice\TaskSolutions\obj
 C:\Users\somadina computers\Documents\CODELESS\CSharp-Practice\TaskSolutions\obj\Debug\net5.0\TaskSolutions.dll
 C:\Users\somadina computers\Documents\CODELESS\CSharp-Practice\TaskSolutions\obj\Debug\net5.0\ref\TaskSolutions.dll
 C:\Users\somadina computers\Documents\CODELESS\CSharp-Practice\TaskSolutions\obj\Debug\net5.0\TaskSolutions.pdb
+C:\Users\USER\Documents\ENV\CSharp-Practice\TaskSolutions\obj\Debug\net5.0\TaskSolutions.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\ENV\CSharp-Practice\TaskSolutions\obj\Debug\net5.0\TaskSolutions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\ENV\CSharp-Practice\TaskSolutions\obj\Debug\net5.0\TaskSolutions.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\ENV\CSharp-Practice\TaskSolutions\obj\Debug\net5.0\TaskSolutions.AssemblyInfo.cs
+C:\Users\USER\Documents\ENV\CSharp-Practice\TaskSolutions\obj\Debug\net5.0\TaskSolutions.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\ENV\CSharp-Practice\TaskSolutions\bin\Debug\net5.0\TaskSolutions.deps.json
+C:\Users\USER\Documents\ENV\CSharp-Practice\TaskSolutions\bin\Debug\net5.0\TaskSolutions.dll
+C:\Users\USER\Documents\ENV\CSharp-Practice\TaskSolutions\bin\Debug\net5.0\ref\TaskSolutions.dll
+C:\Users\USER\Documents\ENV\CSharp-Practice\TaskSolutions\bin\Debug\net5.0\TaskSolutions.pdb
+C:\Users\USER\Documents\ENV\CSharp-Practice\TaskSolutions\bin\Debug\net5.0\DatabaseSimulation.dll
+C:\Users\USER\Documents\ENV\CSharp-Practice\TaskSolutions\bin\Debug\net5.0\DatabaseSimulation.pdb
+C:\Users\USER\Documents\ENV\CSharp-Practice\TaskSolutions\obj\Debug\net5.0\TaskSolutions.csproj.CopyComplete
+C:\Users\USER\Documents\ENV\CSharp-Practice\TaskSolutions\obj\Debug\net5.0\TaskSolutions.dll
+C:\Users\USER\Documents\ENV\CSharp-Practice\TaskSolutions\obj\Debug\net5.0\ref\TaskSolutions.dll
+C:\Users\USER\Documents\ENV\CSharp-Practice\TaskSolutions\obj\Debug\net5.0\TaskSolutions.pdb

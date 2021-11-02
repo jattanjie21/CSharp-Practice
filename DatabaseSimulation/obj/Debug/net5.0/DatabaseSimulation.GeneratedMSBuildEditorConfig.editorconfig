@@ -3,8 +3,16 @@ build_property.TargetFramework = net5.0
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = 
 build_property.ProjectTypeGuids = 
+<<<<<<< HEAD
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DatabaseSimulation
 build_property.ProjectDir = C:\Users\somadina computers\Documents\CODELESS\CSharp-Practice\DatabaseSimulation\
+=======
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = DatabaseSimulation
+build_property.ProjectDir = C:\Users\USER\Documents\ENV\CSharp-Practice\DatabaseSimulation\
+>>>>>>> 80b44de31a5ca34e97fe9249c1c3e61ed6817ef8
