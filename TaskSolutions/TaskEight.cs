@@ -58,6 +58,7 @@ namespace TaskSolutions
             {
                 return $"Cannot find {title} check spelling";
             }
+
         }
 
         public string DeleteBookByID(int id)
@@ -70,7 +71,7 @@ namespace TaskSolutions
             }                                       
             else
             {
-                return "book is deleted or unavailable";
+                return "Book is unavailable";
             }
         }
 
