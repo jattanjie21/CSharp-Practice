@@ -1,14 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "QvsHQ1eUKxmPLyDDAacV4DZ+jDu4A0iaxp+Qmpq83PDSo4ShjQsVVeQlYVtSSTo7VF/J35HIGBXBHft5qrNJrQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\somadina computers\\Documents\\CODELESS\\CSharp-Practice\\DatabaseSimulation\\DatabaseSimulation.csproj",
-=======
-  "dgSpecHash": "T9CLVFLXxypIdecse6r82xtkqpUvQ1Kq9GQT3pfLeaZpfJOZYOB4P4gzg7mCrZDcbjwZBVFY0cLCgkf0LKcIGQ==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\USER\\Documents\\ENV\\CSharp-Practice\\DatabaseSimulation\\DatabaseSimulation.csproj",
->>>>>>> 80b44de31a5ca34e97fe9249c1c3e61ed6817ef8
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\somadina computers\\Documents\\CODELESS\\CSharp-Practice\\DatabaseSimulation\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
