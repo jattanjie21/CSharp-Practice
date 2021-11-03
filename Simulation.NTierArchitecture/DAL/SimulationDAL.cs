@@ -8,6 +8,9 @@ namespace Simulation.NTierArchitecture.DAL
 {
     public class SimulationDAL
     {
+
+        Crud crud = new Crud();
+
         public int CreateNewUser()
         {
             return 1;
