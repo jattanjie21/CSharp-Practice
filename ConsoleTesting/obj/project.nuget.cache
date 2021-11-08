@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ttg0X91XowdIGfJKwwQHGprDEhE9seH1r1XUftdVo6MsXzwQyzrFv7M3+ZJbZkgKeLI6iIwDjeELP3m8MdB3Ng==",
+  "dgSpecHash": "3v4DCOrFAyA+PfIAsmw1XhUAcJ/mUSqPGQccT3a8Ot7ybDNZOfRCHbXmMg+HeRTDZlCed9/+emnIfSryJyyzdA==",
   "success": true,
   "projectFilePath": "C:\\Users\\somadina computers\\Documents\\CODELESS\\CSharp-Practice\\ConsoleTesting\\ConsoleTesting.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\somadina computers\\Documents\\CODELESS\\CSharp-Practice\\ConsoleTesting\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }

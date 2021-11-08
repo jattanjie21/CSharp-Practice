@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GhM5/7XIVvXLIMljj+egJ6sdEDIjsbx3DDno6cT+i6ASycTQUhpIqJSaUx6HmETZSm7p2UbgahmbhCXtCxRxiw==",
+  "dgSpecHash": "fvb1ptweeRxd8Ilq0wxINT8Fq6fFkYmgEarZ/xLGoxHHC212PDE/bQ/wvjZD7nr5cm/Ry+mcZMMa7KwiZWLxAw==",
   "success": true,
   "projectFilePath": "C:\\Users\\somadina computers\\Documents\\CODELESS\\CSharp-Practice\\TaskSolutions\\TaskSolutions.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\somadina computers\\Documents\\CODELESS\\CSharp-Practice\\TaskSolutions\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }
