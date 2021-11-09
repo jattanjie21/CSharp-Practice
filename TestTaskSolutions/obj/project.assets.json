@@ -1671,9 +1671,22 @@
           "build/netcoreapp2.1/xunit.runner.visualstudio.props": {}
         }
       },
+      "DatabaseSimulation/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/DatabaseSimulation.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DatabaseSimulation.dll": {}
+        }
+      },
       "TaskSolutions/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "DatabaseSimulation": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/TaskSolutions.dll": {}
         },
@@ -5917,6 +5930,11 @@
         "xunit.runner.visualstudio.nuspec"
       ]
     },
+    "DatabaseSimulation/1.0.0": {
+      "type": "project",
+      "path": "../DatabaseSimulation/DatabaseSimulation.csproj",
+      "msbuildProject": "../DatabaseSimulation/DatabaseSimulation.csproj"
+    },
     "TaskSolutions/1.0.0": {
       "type": "project",
       "path": "../TaskSolutions/TaskSolutions.csproj",
@@ -5933,7 +5951,8 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\somadina computers\\.nuget\\packages\\": {}
+    "C:\\Users\\somadina computers\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
@@ -5944,8 +5963,12 @@
       "packagesPath": "C:\\Users\\somadina computers\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\somadina computers\\Documents\\CODELESS\\CSharp-Practice\\TestTaskSolutions\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\somadina computers\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
