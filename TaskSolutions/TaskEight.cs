@@ -78,6 +78,7 @@ namespace TaskSolutions
 
         public string ExitProgram()
         {
+            //Part of the options
             return "Program is exiting............";
         }
 
