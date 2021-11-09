@@ -80,6 +80,13 @@ namespace TaskSolutions
         {
             return "Program is exiting............";
         }
+
+        public List<string> SearchHistory()
+        {
+            //Returns all the searched titles
+            //SearchBookByTitle()
+            return null;
+        }
     }
 
 }
