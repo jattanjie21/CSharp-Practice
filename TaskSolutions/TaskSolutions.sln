@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleTesting", "..\Consol
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DatabaseSimulation", "..\DatabaseSimulation\DatabaseSimulation.csproj", "{978E1E46-7009-4F0D-A7A5-D7AD9952CFB1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simulation.Console", "..\Simulation.Console\Simulation.Console.csproj", "{7A948604-2187-4F37-BB9A-F23EFB9AD6FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Simulation.Console", "..\Simulation.Console\Simulation.Console.csproj", "{7A948604-2187-4F37-BB9A-F23EFB9AD6FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simulation.NTierArchitecture", "..\Simulation.NTierArchitecture\Simulation.NTierArchitecture.csproj", "{C399071F-87B7-4EC8-81AE-A0D0DE2EC0F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Simulation.NTierArchitecture", "..\Simulation.NTierArchitecture\Simulation.NTierArchitecture.csproj", "{C399071F-87B7-4EC8-81AE-A0D0DE2EC0F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simulation.UI", "..\Simulation.UI\Simulation.UI.csproj", "{DAA250CC-6D30-417D-9AB2-0E41A9F0E8F6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{C399071F-87B7-4EC8-81AE-A0D0DE2EC0F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C399071F-87B7-4EC8-81AE-A0D0DE2EC0F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C399071F-87B7-4EC8-81AE-A0D0DE2EC0F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAA250CC-6D30-417D-9AB2-0E41A9F0E8F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAA250CC-6D30-417D-9AB2-0E41A9F0E8F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAA250CC-6D30-417D-9AB2-0E41A9F0E8F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAA250CC-6D30-417D-9AB2-0E41A9F0E8F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
