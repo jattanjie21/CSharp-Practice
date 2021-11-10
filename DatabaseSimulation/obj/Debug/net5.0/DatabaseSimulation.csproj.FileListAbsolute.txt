@@ -2,7 +2,6 @@ C:\Users\somadina computers\Documents\CODELESS\CSharp-Practice\DatabaseSimulatio
 C:\Users\somadina computers\Documents\CODELESS\CSharp-Practice\DatabaseSimulation\bin\Debug\net5.0\DatabaseSimulation.dll
 C:\Users\somadina computers\Documents\CODELESS\CSharp-Practice\DatabaseSimulation\bin\Debug\net5.0\ref\DatabaseSimulation.dll
 C:\Users\somadina computers\Documents\CODELESS\CSharp-Practice\DatabaseSimulation\bin\Debug\net5.0\DatabaseSimulation.pdb
-C:\Users\somadina computers\Documents\CODELESS\CSharp-Practice\DatabaseSimulation\obj\Debug\net5.0\DatabaseSimulation.csproj.AssemblyReference.cache
 C:\Users\somadina computers\Documents\CODELESS\CSharp-Practice\DatabaseSimulation\obj\Debug\net5.0\DatabaseSimulation.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\somadina computers\Documents\CODELESS\CSharp-Practice\DatabaseSimulation\obj\Debug\net5.0\DatabaseSimulation.AssemblyInfoInputs.cache
 C:\Users\somadina computers\Documents\CODELESS\CSharp-Practice\DatabaseSimulation\obj\Debug\net5.0\DatabaseSimulation.AssemblyInfo.cs
