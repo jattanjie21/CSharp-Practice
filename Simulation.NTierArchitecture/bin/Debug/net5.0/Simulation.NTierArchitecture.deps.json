@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Simulation.NTierArchitecture/1.0.0": {
+        "dependencies": {
+          "DatabaseSimulation": "1.0.0"
+        },
+        "runtime": {
+          "Simulation.NTierArchitecture.dll": {}
+        }
+      },
+      "DatabaseSimulation/1.0.0": {
+        "runtime": {
+          "DatabaseSimulation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Simulation.NTierArchitecture/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DatabaseSimulation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
