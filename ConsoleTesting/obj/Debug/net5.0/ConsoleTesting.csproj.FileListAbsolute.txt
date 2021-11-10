@@ -16,3 +16,6 @@ C:\Users\somadina computers\Documents\CODELESS\CSharp-Practice\ConsoleTesting\ob
 C:\Users\somadina computers\Documents\CODELESS\CSharp-Practice\ConsoleTesting\obj\Debug\net5.0\ref\ConsoleTesting.dll
 C:\Users\somadina computers\Documents\CODELESS\CSharp-Practice\ConsoleTesting\obj\Debug\net5.0\ConsoleTesting.pdb
 C:\Users\somadina computers\Documents\CODELESS\CSharp-Practice\ConsoleTesting\obj\Debug\net5.0\ConsoleTesting.genruntimeconfig.cache
+C:\Users\somadina computers\Documents\CODELESS\CSharp-Practice\ConsoleTesting\bin\Debug\net5.0\DatabaseSimulation.dll
+C:\Users\somadina computers\Documents\CODELESS\CSharp-Practice\ConsoleTesting\bin\Debug\net5.0\DatabaseSimulation.pdb
+C:\Users\somadina computers\Documents\CODELESS\CSharp-Practice\ConsoleTesting\obj\Debug\net5.0\ConsoleTesting.csproj.CopyComplete

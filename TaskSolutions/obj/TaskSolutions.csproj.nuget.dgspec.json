@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\Documents\\ENV\\CSharp-Practice\\TaskSolutions\\TaskSolutions.csproj": {}
+    "C:\\Users\\somadina computers\\Documents\\CODELESS\\CSharp-Practice\\TaskSolutions\\TaskSolutions.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\Documents\\ENV\\CSharp-Practice\\DatabaseSimulation\\DatabaseSimulation.csproj": {
+    "C:\\Users\\somadina computers\\Documents\\CODELESS\\CSharp-Practice\\DatabaseSimulation\\DatabaseSimulation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Documents\\ENV\\CSharp-Practice\\DatabaseSimulation\\DatabaseSimulation.csproj",
+        "projectUniqueName": "C:\\Users\\somadina computers\\Documents\\CODELESS\\CSharp-Practice\\DatabaseSimulation\\DatabaseSimulation.csproj",
         "projectName": "DatabaseSimulation",
-        "projectPath": "C:\\Users\\USER\\Documents\\ENV\\CSharp-Practice\\DatabaseSimulation\\DatabaseSimulation.csproj",
-        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Documents\\ENV\\CSharp-Practice\\DatabaseSimulation\\obj\\",
+        "projectPath": "C:\\Users\\somadina computers\\Documents\\CODELESS\\CSharp-Practice\\DatabaseSimulation\\DatabaseSimulation.csproj",
+        "packagesPath": "C:\\Users\\somadina computers\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\somadina computers\\Documents\\CODELESS\\CSharp-Practice\\DatabaseSimulation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\somadina computers\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://packagesource": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
@@ -49,26 +49,36 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\USER\\Documents\\ENV\\CSharp-Practice\\TaskSolutions\\TaskSolutions.csproj": {
+    "C:\\Users\\somadina computers\\Documents\\CODELESS\\CSharp-Practice\\TaskSolutions\\TaskSolutions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Documents\\ENV\\CSharp-Practice\\TaskSolutions\\TaskSolutions.csproj",
+        "projectUniqueName": "C:\\Users\\somadina computers\\Documents\\CODELESS\\CSharp-Practice\\TaskSolutions\\TaskSolutions.csproj",
         "projectName": "TaskSolutions",
-        "projectPath": "C:\\Users\\USER\\Documents\\ENV\\CSharp-Practice\\TaskSolutions\\TaskSolutions.csproj",
-        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Documents\\ENV\\CSharp-Practice\\TaskSolutions\\obj\\",
+        "projectPath": "C:\\Users\\somadina computers\\Documents\\CODELESS\\CSharp-Practice\\TaskSolutions\\TaskSolutions.csproj",
+        "packagesPath": "C:\\Users\\somadina computers\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\somadina computers\\Documents\\CODELESS\\CSharp-Practice\\TaskSolutions\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\somadina computers\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -76,14 +86,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://packagesource": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\USER\\Documents\\ENV\\CSharp-Practice\\DatabaseSimulation\\DatabaseSimulation.csproj": {
-                "projectPath": "C:\\Users\\USER\\Documents\\ENV\\CSharp-Practice\\DatabaseSimulation\\DatabaseSimulation.csproj"
+              "C:\\Users\\somadina computers\\Documents\\CODELESS\\CSharp-Practice\\DatabaseSimulation\\DatabaseSimulation.csproj": {
+                "projectPath": "C:\\Users\\somadina computers\\Documents\\CODELESS\\CSharp-Practice\\DatabaseSimulation\\DatabaseSimulation.csproj"
               }
             }
           }
@@ -107,12 +117,22 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

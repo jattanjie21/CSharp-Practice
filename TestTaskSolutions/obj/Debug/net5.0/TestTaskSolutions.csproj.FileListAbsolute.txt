@@ -101,3 +101,5 @@ C:\Users\somadina computers\Documents\CODELESS\CSharp-Practice\TestTaskSolutions
 C:\Users\somadina computers\Documents\CODELESS\CSharp-Practice\TestTaskSolutions\obj\Debug\net5.0\ref\TestTaskSolutions.dll
 C:\Users\somadina computers\Documents\CODELESS\CSharp-Practice\TestTaskSolutions\obj\Debug\net5.0\TestTaskSolutions.pdb
 C:\Users\somadina computers\Documents\CODELESS\CSharp-Practice\TestTaskSolutions\obj\Debug\net5.0\TestTaskSolutions.genruntimeconfig.cache
+C:\Users\somadina computers\Documents\CODELESS\CSharp-Practice\TestTaskSolutions\bin\Debug\net5.0\DatabaseSimulation.dll
+C:\Users\somadina computers\Documents\CODELESS\CSharp-Practice\TestTaskSolutions\bin\Debug\net5.0\DatabaseSimulation.pdb

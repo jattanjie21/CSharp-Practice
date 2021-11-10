@@ -1,0 +1,15 @@
+C:\Users\somadina computers\Documents\CODELESS\CSharp-Practice\Simulation.NTierArchitecture\bin\Debug\net5.0\Simulation.NTierArchitecture.deps.json
+C:\Users\somadina computers\Documents\CODELESS\CSharp-Practice\Simulation.NTierArchitecture\bin\Debug\net5.0\Simulation.NTierArchitecture.dll
+C:\Users\somadina computers\Documents\CODELESS\CSharp-Practice\Simulation.NTierArchitecture\bin\Debug\net5.0\ref\Simulation.NTierArchitecture.dll
+C:\Users\somadina computers\Documents\CODELESS\CSharp-Practice\Simulation.NTierArchitecture\bin\Debug\net5.0\Simulation.NTierArchitecture.pdb
+C:\Users\somadina computers\Documents\CODELESS\CSharp-Practice\Simulation.NTierArchitecture\bin\Debug\net5.0\DatabaseSimulation.dll
+C:\Users\somadina computers\Documents\CODELESS\CSharp-Practice\Simulation.NTierArchitecture\bin\Debug\net5.0\DatabaseSimulation.pdb
+C:\Users\somadina computers\Documents\CODELESS\CSharp-Practice\Simulation.NTierArchitecture\obj\Debug\net5.0\Simulation.NTierArchitecture.csproj.AssemblyReference.cache
+C:\Users\somadina computers\Documents\CODELESS\CSharp-Practice\Simulation.NTierArchitecture\obj\Debug\net5.0\Simulation.NTierArchitecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\somadina computers\Documents\CODELESS\CSharp-Practice\Simulation.NTierArchitecture\obj\Debug\net5.0\Simulation.NTierArchitecture.AssemblyInfoInputs.cache
+C:\Users\somadina computers\Documents\CODELESS\CSharp-Practice\Simulation.NTierArchitecture\obj\Debug\net5.0\Simulation.NTierArchitecture.AssemblyInfo.cs
+C:\Users\somadina computers\Documents\CODELESS\CSharp-Practice\Simulation.NTierArchitecture\obj\Debug\net5.0\Simulation.NTierArchitecture.csproj.CoreCompileInputs.cache
+C:\Users\somadina computers\Documents\CODELESS\CSharp-Practice\Simulation.NTierArchitecture\obj\Debug\net5.0\Simulation.NTierArchitecture.csproj.CopyComplete
+C:\Users\somadina computers\Documents\CODELESS\CSharp-Practice\Simulation.NTierArchitecture\obj\Debug\net5.0\Simulation.NTierArchitecture.dll
+C:\Users\somadina computers\Documents\CODELESS\CSharp-Practice\Simulation.NTierArchitecture\obj\Debug\net5.0\ref\Simulation.NTierArchitecture.dll
+C:\Users\somadina computers\Documents\CODELESS\CSharp-Practice\Simulation.NTierArchitecture\obj\Debug\net5.0\Simulation.NTierArchitecture.pdb

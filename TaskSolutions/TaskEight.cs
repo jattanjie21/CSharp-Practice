@@ -47,7 +47,6 @@ namespace TaskSolutions
                 result.Add(book.Title + " " + book.Author); 
             }
             return result;
-            //Hide if there is a duplicate?
         }
 
         public string SearchBookByTitle(string title)
