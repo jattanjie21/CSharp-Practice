@@ -15,7 +15,12 @@
       "ProjectGuid": "a7ac2024-6e19-4417-a5c4-ac54dea42f77",
       "DisplayName": "TaskSolutions",
       "ColorIndex": 2
+    },
+    "965d857b-ee79-4582-b4b7-ce4044c0c563": {
+      "ProjectGuid": "965d857b-ee79-4582-b4b7-ce4044c0c563",
+      "DisplayName": "ConsoleTesting",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 4
 }

@@ -17,7 +17,7 @@ namespace TaskSolutions
         }
         public string PrintSomeText(string text)
         {
-            string beginning = text.Substring(0, 3);
+            string beginning = text.Substring(0 , 3);
 
             if (beginning == "if")
             {

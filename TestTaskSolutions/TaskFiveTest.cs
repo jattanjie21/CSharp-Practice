@@ -17,7 +17,7 @@ namespace TestTaskSolutions
             TaskFive taskFive = new();
 
             //Act
-            string expected = "if else";
+            string expected = "if";
             string actual = taskFive.PrintSomeText("if else");
 
             //Assert
