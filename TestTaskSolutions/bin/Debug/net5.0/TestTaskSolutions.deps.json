@@ -1090,7 +1090,15 @@
         }
       },
       "xunit.runner.visualstudio/2.4.3": {},
+      "DatabaseSimulation/1.0.0": {
+        "runtime": {
+          "DatabaseSimulation.dll": {}
+        }
+      },
       "TaskSolutions/1.0.0": {
+        "dependencies": {
+          "DatabaseSimulation": "1.0.0"
+        },
         "runtime": {
           "TaskSolutions.dll": {}
         }
@@ -1746,6 +1754,11 @@
       "sha512": "sha512-kZZSmOmKA8OBlAJaquPXnJJLM9RwQ27H7BMVqfMLUcTi9xHinWGJiWksa3D4NEtz0wZ/nxd2mogObvBgJKCRhQ==",
       "path": "xunit.runner.visualstudio/2.4.3",
       "hashPath": "xunit.runner.visualstudio.2.4.3.nupkg.sha512"
+    },
+    "DatabaseSimulation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "TaskSolutions/1.0.0": {
       "type": "project",

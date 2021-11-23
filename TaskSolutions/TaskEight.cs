@@ -27,7 +27,6 @@ namespace TaskSolutions
 
             else
             {
-                //id == 
                 id = 1;
             }
 
@@ -47,7 +46,6 @@ namespace TaskSolutions
                 result.Add(book.Title + " " + book.Author); 
             }
             return result;
-            //Hide if there is a duplicate?
         }
 
         public string SearchBookByTitle(string title)
@@ -79,14 +77,11 @@ namespace TaskSolutions
 
         public string ExitProgram()
         {
-            //Part of the options
             return "Program is exiting............";
         }
 
         public List<string> SearchHistory()
         {
-            //Returns all the searched titles
-            //SearchBookByTitle()
             return null;
         }
     }
