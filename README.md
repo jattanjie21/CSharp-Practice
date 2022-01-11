@@ -18,7 +18,7 @@ A Simple .Net core project with c#. Weekly collecting basic questions online and
 - Download and install Visual Studio Code.
 - Download and install the .NET Core SDK.
 - Install the C# extensions from the Visual Studio Code marketplace.
-- Fork and Clone project repo in your pc.
+- Fork and Clone project repo.
 - Open TaskSolutions.sln with either vs code or visual studio.
 
 # How To Contribute
