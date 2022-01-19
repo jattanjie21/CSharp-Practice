@@ -3,7 +3,7 @@
 # Project name: C# Practice
 
 # Description 
-A Simple .Net core project with c#. Weekly collecting basic questions online and solving them in an easy way or format. The project has three cproj solutions namely Task.sln, ConsoleTest.sln and TestTask.sln each performing a distinct task.
+A Simple Dot Net core project with c#. Weekly collecting basic questions online and solving them in an easy way or format. The project has three cproj solutions namely Task.sln, ConsoleTest.sln and TestTask.sln each performing a distinct task.
 
  - Task.sln
    This is a simple class library project where all the tasks are created.
